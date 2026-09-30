@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "8d1e422df35d82c4cbcbe7666c8527ff",
+    "sha1": "a35c94707dc382cdeb4b2c2ec9cae46c8d5a183c",
+    "sha256": "e47fd07cf76d121d6931449b3bc28f70ee9e28b388d8f73de027841b9baf0493",
+    "file_name": "2023-01-23_8d1e422df35d82c4cbcbe7666c8527ff_icedid",
+    "upload_time": "2026-06-14 22:26:47",
+    "start_time": "2026-06-14 22:26:48",
+    "end_time": "2026-06-14 22:27:25",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Keydoor[Spy]",
+    "size": 659554,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 13,
+    "tags": [
+      "僵尸远控行为|45",
+      "泄密行为|40",
+      "APT组织关联|50"
+    ]
+  }
+}

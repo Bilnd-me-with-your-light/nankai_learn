@@ -1,0 +1,680 @@
+{
+  "data": {
+    "id": "a63c5b29d62a638f364b8700a978993e43f7438cabe38b46e5721080d28489cf",
+    "type": "file",
+    "links": {
+      "self": "https://www.virustotal.com/api/v3/files/a63c5b29d62a638f364b8700a978993e43f7438cabe38b46e5721080d28489cf"
+    },
+    "attributes": {
+      "meaningful_name": "Ransomware #.wlu 勒索.zip",
+      "size": 124365,
+      "first_submission_date": 1581345332,
+      "last_analysis_stats": {
+        "malicious": 53,
+        "suspicious": 0,
+        "undetected": 12,
+        "harmless": 0,
+        "timeout": 0,
+        "confirmed-timeout": 0,
+        "failure": 0,
+        "type-unsupported": 10
+      },
+      "reputation": 0,
+      "md5": "475f2e64032ebe4b8f6b8389065b00e5",
+      "type_extension": "zip",
+      "bundle_info": {
+        "highest_datetime": "2017-05-25 15:13:14",
+        "lowest_datetime": "2017-05-25 15:13:14",
+        "num_children": 1,
+        "extensions": {
+          "exe": 1
+        },
+        "file_types": {
+          "Portable Executable": 1
+        },
+        "type": "ZIP",
+        "uncompressed_size": 217088
+      },
+      "trid": [
+        {
+          "file_type": "ZIP compressed archive",
+          "probability": 80.0
+        },
+        {
+          "file_type": "PrintFox/Pagefox bitmap (640x800)",
+          "probability": 20.0
+        }
+      ],
+      "last_analysis_results": {
+        "Bkav": {
+          "method": "blacklist",
+          "engine_name": "Bkav",
+          "engine_version": "2.0.0.1",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "Lionic": {
+          "method": "blacklist",
+          "engine_name": "Lionic",
+          "engine_version": "7.5",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Win32.Jaff.toOY"
+        },
+        "Elastic": {
+          "method": "blacklist",
+          "engine_name": "Elastic",
+          "engine_version": "4.0.98",
+          "engine_update": "20230628",
+          "category": "malicious",
+          "result": "malicious (high confidence)"
+        },
+        "DrWeb": {
+          "method": "blacklist",
+          "engine_name": "DrWeb",
+          "engine_version": "7.0.59.12300",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Encoder.11758"
+        },
+        "MicroWorld-eScan": {
+          "method": "blacklist",
+          "engine_name": "MicroWorld-eScan",
+          "engine_version": "14.0.409.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.5177243"
+        },
+        "FireEye": {
+          "method": "blacklist",
+          "engine_name": "FireEye",
+          "engine_version": "35.24.1.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.5177243"
+        },
+        "CAT-QuickHeal": {
+          "method": "blacklist",
+          "engine_name": "CAT-QuickHeal",
+          "engine_version": "22.00",
+          "engine_update": "20230710",
+          "category": "malicious",
+          "result": "Trojan.MauvaiseRI.S5249038"
+        },
+        "ALYac": {
+          "method": "blacklist",
+          "engine_name": "ALYac",
+          "engine_version": "1.1.3.1",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "Malwarebytes": {
+          "method": "blacklist",
+          "engine_name": "Malwarebytes",
+          "engine_version": "4.5.5.54",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Generic.Malware/Suspicious"
+        },
+        "VIPRE": {
+          "method": "blacklist",
+          "engine_name": "VIPRE",
+          "engine_version": "6.0.0.35",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.5177243"
+        },
+        "Sangfor": {
+          "method": "blacklist",
+          "engine_name": "Sangfor",
+          "engine_version": "2.23.0.0",
+          "engine_update": "20230707",
+          "category": "malicious",
+          "result": "Ransom.Win32.Jaff.l"
+        },
+        "Trustlook": {
+          "method": "blacklist",
+          "engine_name": "Trustlook",
+          "engine_version": "1.0",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "BitDefender": {
+          "method": "blacklist",
+          "engine_name": "BitDefender",
+          "engine_version": "7.2",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.5177243"
+        },
+        "K7GW": {
+          "method": "blacklist",
+          "engine_name": "K7GW",
+          "engine_version": "12.96.48920",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan ( 0050e87d1 )"
+        },
+        "K7AntiVirus": {
+          "method": "blacklist",
+          "engine_name": "K7AntiVirus",
+          "engine_version": "12.96.48916",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan ( 0050e87d1 )"
+        },
+        "BitDefenderTheta": {
+          "method": "blacklist",
+          "engine_name": "BitDefenderTheta",
+          "engine_version": "7.2.37796.0",
+          "engine_update": "20230706",
+          "category": "malicious",
+          "result": "Gen:NN.ZexaF.36302.nq0@a8f7Alji"
+        },
+        "VirIT": {
+          "method": "blacklist",
+          "engine_name": "VirIT",
+          "engine_version": "9.5.488",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Win32.JaffCrypt.G"
+        },
+        "Cyren": {
+          "method": "blacklist",
+          "engine_name": "Cyren",
+          "engine_version": "6.5.1.2",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "W32/Trojan.UOMD-9359"
+        },
+        "Symantec": {
+          "method": "blacklist",
+          "engine_name": "Symantec",
+          "engine_version": "1.20.0.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Gen.NPE"
+        },
+        "ESET-NOD32": {
+          "method": "blacklist",
+          "engine_name": "ESET-NOD32",
+          "engine_version": "27555",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Win32/Filecoder.Jaff.B"
+        },
+        "Cynet": {
+          "method": "blacklist",
+          "engine_name": "Cynet",
+          "engine_version": "4.0.0.27",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Malicious (score: 99)"
+        },
+        "TrendMicro-HouseCall": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro-HouseCall",
+          "engine_version": "10.0.0.1040",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Ransom_CRYPJAFF.ENJ"
+        },
+        "Avast": {
+          "method": "blacklist",
+          "engine_name": "Avast",
+          "engine_version": "22.11.7701.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Win32:Malware-gen"
+        },
+        "ClamAV": {
+          "method": "blacklist",
+          "engine_name": "ClamAV",
+          "engine_version": "1.1.0.0",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "Kaspersky": {
+          "method": "blacklist",
+          "engine_name": "Kaspersky",
+          "engine_version": "22.0.1.28",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan-Ransom.Win32.Jaff.l"
+        },
+        "Alibaba": {
+          "method": "blacklist",
+          "engine_name": "Alibaba",
+          "engine_version": "0.3.0.5",
+          "engine_update": "20190527",
+          "category": "malicious",
+          "result": "Ransom:Win32/generic.ali2000010"
+        },
+        "NANO-Antivirus": {
+          "method": "blacklist",
+          "engine_name": "NANO-Antivirus",
+          "engine_version": "1.0.146.25785",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Win32.Encoder.fhdcuv"
+        },
+        "ViRobot": {
+          "method": "blacklist",
+          "engine_name": "ViRobot",
+          "engine_version": "2014.3.20.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Win32.Ransom.217088.D"
+        },
+        "Rising": {
+          "method": "blacklist",
+          "engine_name": "Rising",
+          "engine_version": "25.0.0.27",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Ransom.Jaffrans!8.E7AB (KTSE)"
+        },
+        "Emsisoft": {
+          "method": "blacklist",
+          "engine_name": "Emsisoft",
+          "engine_version": "2022.6.0.32461",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.5177243 (B)"
+        },
+        "F-Secure": {
+          "method": "blacklist",
+          "engine_name": "F-Secure",
+          "engine_version": "18.10.1137.128",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.TR/AD.MalwareCrypter.sqhiz"
+        },
+        "Baidu": {
+          "method": "blacklist",
+          "engine_name": "Baidu",
+          "engine_version": "1.0.0.2",
+          "engine_update": "20190318",
+          "category": "undetected",
+          "result": null
+        },
+        "Zillya": {
+          "method": "blacklist",
+          "engine_name": "Zillya",
+          "engine_version": "2.0.0.4912",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Jaff.Win32.2"
+        },
+        "TrendMicro": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro",
+          "engine_version": "11.0.0.1006",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Ransom_CRYPJAFF.ENJ"
+        },
+        "McAfee-GW-Edition": {
+          "method": "blacklist",
+          "engine_name": "McAfee-GW-Edition",
+          "engine_version": "v2021.2.0+4045",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Generic.abu"
+        },
+        "CMC": {
+          "method": "blacklist",
+          "engine_name": "CMC",
+          "engine_version": "2.4.2022.1",
+          "engine_update": "20230619",
+          "category": "undetected",
+          "result": null
+        },
+        "Sophos": {
+          "method": "blacklist",
+          "engine_name": "Sophos",
+          "engine_version": "2.3.1.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Mal/Generic-R"
+        },
+        "Ikarus": {
+          "method": "blacklist",
+          "engine_name": "Ikarus",
+          "engine_version": "6.1.14.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan-Ransom.Jaff"
+        },
+        "GData": {
+          "method": "blacklist",
+          "engine_name": "GData",
+          "engine_version": "A:25.36184B:27.32377",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Win32.Trojan.Agent.ITSR1I"
+        },
+        "Jiangmin": {
+          "method": "blacklist",
+          "engine_name": "Jiangmin",
+          "engine_version": "16.0.100",
+          "engine_update": "20230710",
+          "category": "malicious",
+          "result": "Trojan.Jaff.d"
+        },
+        "Avira": {
+          "method": "blacklist",
+          "engine_name": "Avira",
+          "engine_version": "8.3.3.16",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "TR/AD.MalwareCrypter.sqhiz"
+        },
+        "MAX": {
+          "method": "blacklist",
+          "engine_name": "MAX",
+          "engine_version": "2023.1.4.1",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "malware (ai score=87)"
+        },
+        "Antiy-AVL": {
+          "method": "blacklist",
+          "engine_name": "Antiy-AVL",
+          "engine_version": "3.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan/Win32.SGeneric"
+        },
+        "Microsoft": {
+          "method": "blacklist",
+          "engine_name": "Microsoft",
+          "engine_version": "1.1.23060.1005",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Ransom:MacOS/Filecoder"
+        },
+        "Gridinsoft": {
+          "method": "blacklist",
+          "engine_name": "Gridinsoft",
+          "engine_version": "1.0.128.174",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Ransom.Win32.AI.oa!s1"
+        },
+        "Xcitium": {
+          "method": "blacklist",
+          "engine_name": "Xcitium",
+          "engine_version": "35819",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Malware@#furta42jkve7"
+        },
+        "Arcabit": {
+          "method": "blacklist",
+          "engine_name": "Arcabit",
+          "engine_version": "2022.0.0.18",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.RanSerKD.D4EFF9B"
+        },
+        "SUPERAntiSpyware": {
+          "method": "blacklist",
+          "engine_name": "SUPERAntiSpyware",
+          "engine_version": "5.6.0.1032",
+          "engine_update": "20230706",
+          "category": "undetected",
+          "result": null
+        },
+        "ZoneAlarm": {
+          "method": "blacklist",
+          "engine_name": "ZoneAlarm",
+          "engine_version": "1.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "UDS:DangerousObject.Multi.Generic"
+        },
+        "Avast-Mobile": {
+          "method": "blacklist",
+          "engine_name": "Avast-Mobile",
+          "engine_version": "230711-00",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "Google": {
+          "method": "blacklist",
+          "engine_name": "Google",
+          "engine_version": "1689112825",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Detected"
+        },
+        "AhnLab-V3": {
+          "method": "blacklist",
+          "engine_name": "AhnLab-V3",
+          "engine_version": "3.23.3.10396",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Win-Trojan/Sagecrypt.Gen"
+        },
+        "Acronis": {
+          "method": "blacklist",
+          "engine_name": "Acronis",
+          "engine_version": "1.2.0.114",
+          "engine_update": "20230219",
+          "category": "undetected",
+          "result": null
+        },
+        "McAfee": {
+          "method": "blacklist",
+          "engine_name": "McAfee",
+          "engine_version": "6.0.6.653",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Generic.abu"
+        },
+        "TACHYON": {
+          "method": "blacklist",
+          "engine_name": "TACHYON",
+          "engine_version": "2023-07-11.03",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "DeepInstinct": {
+          "method": "blacklist",
+          "engine_name": "DeepInstinct",
+          "engine_version": "3.1.0.15",
+          "engine_update": "20230702",
+          "category": "malicious",
+          "result": "MALICIOUS"
+        },
+        "VBA32": {
+          "method": "blacklist",
+          "engine_name": "VBA32",
+          "engine_version": "5.0.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "BScope.TrojanRansom.Encoder"
+        },
+        "Zoner": {
+          "method": "blacklist",
+          "engine_name": "Zoner",
+          "engine_version": "2.2.2.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.Win32.58565"
+        },
+        "Tencent": {
+          "method": "blacklist",
+          "engine_name": "Tencent",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Malware.Win32.Gencirc.10bdc291"
+        },
+        "Yandex": {
+          "method": "blacklist",
+          "engine_name": "Yandex",
+          "engine_version": "5.5.2.24",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trojan.GenAsa!b/kcQ+i2/+I"
+        },
+        "SentinelOne": {
+          "method": "blacklist",
+          "engine_name": "SentinelOne",
+          "engine_version": "23.3.0.3",
+          "engine_update": "20230705",
+          "category": "undetected",
+          "result": null
+        },
+        "MaxSecure": {
+          "method": "blacklist",
+          "engine_name": "MaxSecure",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20230711",
+          "category": "undetected",
+          "result": null
+        },
+        "Fortinet": {
+          "method": "blacklist",
+          "engine_name": "Fortinet",
+          "engine_version": "None",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "W32/Generic.AC.3F123E!tr"
+        },
+        "AVG": {
+          "method": "blacklist",
+          "engine_name": "AVG",
+          "engine_version": "22.11.7701.0",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Win32:Malware-gen"
+        },
+        "Panda": {
+          "method": "blacklist",
+          "engine_name": "Panda",
+          "engine_version": "4.6.4.2",
+          "engine_update": "20230711",
+          "category": "malicious",
+          "result": "Trj/WLT.C"
+        },
+        "SymantecMobileInsight": {
+          "method": "blacklist",
+          "engine_name": "SymantecMobileInsight",
+          "engine_version": "2.0",
+          "engine_update": "20230119",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "BitDefenderFalx": {
+          "method": "blacklist",
+          "engine_name": "BitDefenderFalx",
+          "engine_version": "2.0.936",
+          "engine_update": "20230709",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "tehtris": {
+          "method": "blacklist",
+          "engine_name": "tehtris",
+          "engine_version": "v0.1.4",
+          "engine_update": "20230711",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Webroot": {
+          "method": "blacklist",
+          "engine_name": "Webroot",
+          "engine_version": "1.0.0.403",
+          "engine_update": "20230711",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "APEX": {
+          "method": "blacklist",
+          "engine_name": "APEX",
+          "engine_version": "6.431",
+          "engine_update": "20230710",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Paloalto": {
+          "method": "blacklist",
+          "engine_name": "Paloalto",
+          "engine_version": "0.9.0.1003",
+          "engine_update": "20230711",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Trapmine": {
+          "method": "blacklist",
+          "engine_name": "Trapmine",
+          "engine_version": "4.0.14.446",
+          "engine_update": "20230412",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Cylance": {
+          "method": "blacklist",
+          "engine_name": "Cylance",
+          "engine_version": "2.0.0.0",
+          "engine_update": "20230705",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "CrowdStrike": {
+          "method": "blacklist",
+          "engine_name": "CrowdStrike",
+          "engine_version": "1.0",
+          "engine_update": "20220812",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Cybereason": {
+          "method": "blacklist",
+          "engine_name": "Cybereason",
+          "engine_version": "1.2.449",
+          "engine_update": "20210330",
+          "category": "type-unsupported",
+          "result": null
+        }
+      },
+      "tags": [
+        "contains-pe",
+        "zip"
+      ],
+      "total_votes": {
+        "harmless": 0,
+        "malicious": 0
+      },
+      "unique_sources": 1,
+      "sha1": "db12abe375686c4634193526ebfc6c3e35aed4d3",
+      "last_modification_date": 1689123954,
+      "tlsh": "T19AC3121336288CB74BDB2154CC0C5759AB1AB1E7CF90F05256E4DEF9A7482BAAD17603",
+      "names": [
+        "Ransomware #.wlu 勒索.zip"
+      ],
+      "last_analysis_date": 1689106726,
+      "times_submitted": 1,
+      "type_tag": "zip",
+      "last_submission_date": 1581345332,
+      "type_tags": [
+        "compressed",
+        "zip"
+      ],
+      "type_description": "ZIP",
+      "vhash": "751764fa4d6ab773f1db29ac30694505",
+      "magic": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "sha256": "a63c5b29d62a638f364b8700a978993e43f7438cabe38b46e5721080d28489cf",
+      "ssdeep": "3072:Pwq1nLoTc6F3fQhEvT/Kest1hvB7OHI2q4FCp+7U3U/m:oqZLoTTF3fpvzorOTFCp+W"
+    }
+  }
+}

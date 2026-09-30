@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "f2a0e015542b0149861ced948c8679ef",
+    "sha1": "e74cea6ec7798790bad4a1d67d7bc0efc3144490",
+    "sha256": "e4e398a9ace88e6a02edc413ff7af66e3e09f576d3d62434e2e7dc0e5f982b3b",
+    "file_name": "2023-12-13_f2a0e015542b0149861ced948c8679ef_gandcrab",
+    "upload_time": "2026-06-09 21:53:57",
+    "start_time": "2026-06-09 21:53:57",
+    "end_time": "2026-06-09 21:56:17",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Agent",
+    "size": 148992,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "勒索行为|85"
+    ]
+  }
+}

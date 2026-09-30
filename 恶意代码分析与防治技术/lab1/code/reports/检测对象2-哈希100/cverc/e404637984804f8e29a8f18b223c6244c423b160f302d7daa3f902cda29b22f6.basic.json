@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "81acd3a4fdc0933ebf663e3f2fbd503b",
+    "sha1": "e5001291f59aff603b8d68be045ebc9aff7636d9",
+    "sha256": "e404637984804f8e29a8f18b223c6244c423b160f302d7daa3f902cda29b22f6",
+    "file_name": "2023-12-05_81acd3a4fdc0933ebf663e3f2fbd503b_ryuk",
+    "upload_time": "2026-06-09 22:51:29",
+    "start_time": "2026-06-09 22:51:29",
+    "end_time": "2026-06-09 22:52:17",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.Expiro.x",
+    "size": 2877440,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 12,
+    "tags": []
+  }
+}

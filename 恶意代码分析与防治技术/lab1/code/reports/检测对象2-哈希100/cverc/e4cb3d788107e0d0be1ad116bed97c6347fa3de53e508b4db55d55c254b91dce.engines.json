@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Virus/Win32.Ipamor.b",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Virus.Ipamor.a",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Malware.Ipamor-10004104-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Virus.Ipamor!8.3BC (CLOUD:bWQ1OqvpHDaV3+doB6PK9mqYups)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.ins",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Virus.Win32.Viking.aak",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

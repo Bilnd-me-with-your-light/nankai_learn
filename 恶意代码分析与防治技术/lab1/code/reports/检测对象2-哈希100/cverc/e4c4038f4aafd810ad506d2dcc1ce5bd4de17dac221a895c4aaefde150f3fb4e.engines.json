@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Bublik",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Trojan/Win32.zbot.I42",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Trojan.Upatre-3335",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "TrojanDownloader/Maloader.bk",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "TrojanDownloader/Maloader.bk",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan/Generic.bcdos",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan-Downloader.Win32.Upatre.gen",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Troj.tpa.kr2rt8",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win32.Upatre.BCR",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Downloader.Win32.Upatre.BO",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Malware.FakePDF/ICON!1.9C28 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan-DL.Win32.Upatre.cf",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

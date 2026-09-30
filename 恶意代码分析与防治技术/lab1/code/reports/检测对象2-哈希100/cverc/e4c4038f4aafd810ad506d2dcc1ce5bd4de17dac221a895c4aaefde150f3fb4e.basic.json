@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "4a31600a87dff333d648aa14a85e7f39",
+    "sha1": "d69a995a208eed444773461a354238bcfbd16fe8",
+    "sha256": "e4c4038f4aafd810ad506d2dcc1ce5bd4de17dac221a895c4aaefde150f3fb4e",
+    "file_name": "2023-06-18_4a31600a87dff333d648aa14a85e7f39_cryptolocker",
+    "upload_time": "2026-06-13 10:18:08",
+    "start_time": "2026-06-13 10:18:08",
+    "end_time": "2026-06-13 10:18:47",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Bublik",
+    "size": 48448,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": []
+  }
+}

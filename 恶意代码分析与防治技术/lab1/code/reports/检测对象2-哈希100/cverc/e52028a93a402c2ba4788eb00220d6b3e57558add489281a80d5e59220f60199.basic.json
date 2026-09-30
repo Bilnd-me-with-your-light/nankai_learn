@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "0e0e8ac1634ecccd2847d8044f2ad2e6",
+    "sha1": "5ebedef9ead78810ee03e84f1ced41f5ee0d003a",
+    "sha256": "e52028a93a402c2ba4788eb00220d6b3e57558add489281a80d5e59220f60199",
+    "file_name": "2023-09-21_0e0e8ac1634ecccd2847d8044f2ad2e6_cryptolocker",
+    "upload_time": "2026-06-10 05:14:35",
+    "start_time": "2026-06-10 05:14:35",
+    "end_time": "2026-06-10 05:15:50",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Upatre[Downloader]",
+    "size": 47616,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": []
+  }
+}

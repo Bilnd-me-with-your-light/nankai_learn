@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "1b234b7216fb62e8da836f895c4803fe",
+    "sha1": "734650a8fe1fc01ebfbd3cbf78979dff3a292df9",
+    "sha256": "e41972d55410d48fc022f4788f1b776c53001c128f0e45444eac846976a5e421",
+    "file_name": "2023-05-06_1b234b7216fb62e8da836f895c4803fe_virlock",
+    "upload_time": "2026-06-13 14:43:49",
+    "start_time": "2026-06-13 14:43:49",
+    "end_time": "2026-06-13 14:44:24",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.PolyRansom.a",
+    "size": 183808,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 12,
+    "tags": [
+      "勒索行为|50"
+    ]
+  }
+}

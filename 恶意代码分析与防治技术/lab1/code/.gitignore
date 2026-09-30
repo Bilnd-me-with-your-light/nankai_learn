@@ -1,0 +1,6 @@
+# config.json 里是 API 凭据（VirusTotal key 与协同平台 apikey），不要提交
+config.json
+
+# 编译 / 运行产生的缓存
+__pycache__/
+*.pyc

@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Agent",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan-Dropper.Agent.ab",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Trojan.Cuegoe-6336261-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Trojan/OrBus.g",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Trojan/OrBus.g",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "TrojanDropper.Agent.gqly",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Trojan-Dropper.Win32.Agent.teveti",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Troj.tpa.pbxj4p",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.MPE.Orbus.E",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Downloader.Win32.Upatre.JS",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Backdoor.[OceanLotus]Salgorea!1.C3DC (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan.Win32.Salgorea.ya",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

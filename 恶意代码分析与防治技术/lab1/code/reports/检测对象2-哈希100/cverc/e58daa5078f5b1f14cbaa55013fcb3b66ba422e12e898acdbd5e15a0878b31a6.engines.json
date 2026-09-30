@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.LockBit[Ransom]",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Ransom.Lockbit.BC2",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Ransom/LockBit.f",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Ransom/LockBit.f",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.Crypmodng.cd",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan-Ransom.Win32.Generic",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win32.Trojan-Ransom.Generic.a.(kcloud)",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Ransom.MPE.Lockbit.L",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "G_Trojan.Gen.48PPr!jjiM",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Ransom.LockBit!1.DFDC (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Ransom.Win32.Save.LockBit30",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan.Win32.Agent.hcu",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

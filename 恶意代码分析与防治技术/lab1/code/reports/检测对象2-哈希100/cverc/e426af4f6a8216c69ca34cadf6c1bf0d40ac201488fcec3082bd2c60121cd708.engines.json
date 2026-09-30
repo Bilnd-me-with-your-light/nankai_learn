@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "HackTool/Win32.Inject",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.Generic.eBNi",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Ransomware.Gandcrab-10044321-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Ransom/GandCrab.ax",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Ransom/GandCrab.ax",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.Generic.eqgid",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "UDS:Trojan-Ransom.Win32.GandCrypt.jwl",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Ransom.tpa.kqykp2",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Ransom.MPE.GandCrab.B",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Ransom.Win32.GandCrab.AF",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Ransom.GandCrab!1.B8D6 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Ransom.Win32.Gandcrab_1.se",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan.Win32.Gandcrab.e",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

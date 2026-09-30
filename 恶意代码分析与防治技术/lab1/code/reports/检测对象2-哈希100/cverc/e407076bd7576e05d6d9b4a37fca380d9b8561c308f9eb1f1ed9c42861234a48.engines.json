@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Gamup[Downloader]",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.BHO.n",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Trojan.OnlineGames-65",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "TrojanDownloader/Agent.m",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "TrojanDownloader/Agent.m",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan/Generic.bkcdl",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Trojan-Downloader.Win32.Gamup.qko",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Troj.tpa.m9wpv3",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win32.Hooker.XAANCB",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Win32.Downloader.X",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Backdoor.Agent!1.69D8 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan-Downloader.Win32.Gamup.fb",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

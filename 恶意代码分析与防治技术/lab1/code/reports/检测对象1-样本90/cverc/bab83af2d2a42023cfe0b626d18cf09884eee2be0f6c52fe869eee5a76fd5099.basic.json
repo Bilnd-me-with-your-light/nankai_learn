@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "cab4bb50826b2c50db0a744e4f675619",
+    "sha1": "85a9917867384c61f3720b6973854da686364b72",
+    "sha256": "bab83af2d2a42023cfe0b626d18cf09884eee2be0f6c52fe869eee5a76fd5099",
+    "file_name": "cab4bb50826b2c50db0a744e4f675619_cab4bb50826b2c50db0a744e4f675619",
+    "upload_time": "2026-07-24 04:13:44",
+    "start_time": "2026-07-24 04:13:44",
+    "end_time": "2026-07-24 04:14:23",
+    "format": "COMPRESS",
+    "malware_name": "Trojan/Win32.Kryptik.geoe",
+    "size": 196442,
+    "trust": "no",
+    "total_multiscan": 17,
+    "positives_multiscan": 10,
+    "tags": [
+      "勒索行为|50"
+    ]
+  }
+}

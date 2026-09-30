@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Virus/Win32.PolyRansom.a",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Virus.Virlock.a",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "BC.Win.Virus.Ransom-9157.A",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Virus.Win32.Nabucur.e",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Virus.Win32.VirLock.F",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Trojan.Upatre!8.648F (TFE:2:90CAxzno6GR)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

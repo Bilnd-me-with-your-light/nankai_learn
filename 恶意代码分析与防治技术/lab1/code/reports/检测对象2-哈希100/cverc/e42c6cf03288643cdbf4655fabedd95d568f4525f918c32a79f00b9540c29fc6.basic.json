@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "18727f9d1e64cb13b4e47e941b9726a3",
+    "sha1": "c41695ff5383cb5126fd60e7b4350207ac7a7a8d",
+    "sha256": "e42c6cf03288643cdbf4655fabedd95d568f4525f918c32a79f00b9540c29fc6",
+    "file_name": "2023-09-19_18727f9d1e64cb13b4e47e941b9726a3_cryptolocker",
+    "upload_time": "2026-06-10 05:03:15",
+    "start_time": "2026-06-10 05:03:16",
+    "end_time": "2026-06-10 05:05:05",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Small[Downloader]",
+    "size": 42284,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": []
+  }
+}

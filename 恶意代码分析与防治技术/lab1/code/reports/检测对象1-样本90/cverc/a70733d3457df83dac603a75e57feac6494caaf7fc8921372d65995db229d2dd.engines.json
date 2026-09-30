@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Kryptik.ghvw",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.GandCrab.Z4",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Dropper.Gandcrab-6518210-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "HEUR:VirTool/Obfuscator.gen!C",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "HEUR:VirTool/Obfuscator.gen!C",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "TrojanDownloader.Upatre.aixs",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan.Win32.Generic",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "VIRUS_UNKNOWN",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win.Generic.a5628191",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "G_Trojan.Gen.48PBu!jd6v",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Trojan.Kryptik!1.B2F7 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

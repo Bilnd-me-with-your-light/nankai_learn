@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Agent.pih",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan-DDos.StormAttack.ef22",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Malware.Ulise-9951851-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "TrojanDropper/Agent.jl",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "TrojanDropper/Agent.jl",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "TrojanDDoS.StormAttack.a",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Trojan-DDoS.Win32.StormAttack.a",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Script.Virus.tpa.pbwpr9",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win32.DDosStormser.B",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Backdoor.Win32.Storm.A",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Dropper.Agent!1.C6A3 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan-Ddos.Win32.Stormattack.wa",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

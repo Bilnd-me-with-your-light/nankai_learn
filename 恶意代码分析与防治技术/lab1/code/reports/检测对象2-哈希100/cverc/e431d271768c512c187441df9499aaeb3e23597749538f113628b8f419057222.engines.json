@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Grayware/Win32.VirLock.a",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

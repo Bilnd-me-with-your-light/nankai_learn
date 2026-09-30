@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "ba0dc3b91fff1439b15ebc02937bfcd8",
+    "sha1": "1deced193e0a9dbfe346342971cc16ed3b3a5917",
+    "sha256": "7580532be2f1215f83574f14d14a939988a54516f9617c7b2f1cc6bcde1fea72",
+    "file_name": "ba0dc3b91fff1439b15ebc02937bfcd8_7580532be2f1215f83574f14d14a939988a54516f9617c7b2f1cc6bcde1fea72",
+    "upload_time": "2026-07-23 04:29:34",
+    "start_time": "2026-07-23 04:29:34",
+    "end_time": "2026-07-23 04:30:05",
+    "format": "COMPRESS",
+    "malware_name": "Trojan/Win32.Agent",
+    "size": 190038,
+    "trust": "no",
+    "total_multiscan": 17,
+    "positives_multiscan": 10,
+    "tags": [
+      "勒索行为|50"
+    ]
+  }
+}

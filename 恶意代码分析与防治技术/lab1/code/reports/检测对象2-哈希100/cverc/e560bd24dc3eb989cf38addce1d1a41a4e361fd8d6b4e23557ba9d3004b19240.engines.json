@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Riskware/Win32.BitMiner.h",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Worm.XiaobaMiner.b1",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Trojan.Qhost-160",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Virus/Xbminer.b@U",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Virus/Xbminer.b@U",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan.Win32.Blamon.gen",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Script.Virus.tpa.pbxcx4",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Virus.Win32.Coinminer.B",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Worm.Agent!1.AFBD (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.BlackMoon",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Virus.Win32.Lamer.ko",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

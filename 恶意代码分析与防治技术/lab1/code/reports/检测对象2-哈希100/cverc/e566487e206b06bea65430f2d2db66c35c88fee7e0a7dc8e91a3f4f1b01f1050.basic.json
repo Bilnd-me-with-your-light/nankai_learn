@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "2381939b5c40d632badfb455b3c11041",
+    "sha1": "00da3c55ca9b55266cc0bb9a516891e5d6f52d94",
+    "sha256": "e566487e206b06bea65430f2d2db66c35c88fee7e0a7dc8e91a3f4f1b01f1050",
+    "file_name": "2023-07-19_2381939b5c40d632badfb455b3c11041_mafia",
+    "upload_time": "2026-06-13 06:29:37",
+    "start_time": "2026-06-13 06:29:37",
+    "end_time": "2026-06-13 06:32:20",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.Expiro.ropf",
+    "size": 194768,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 10,
+    "tags": []
+  }
+}

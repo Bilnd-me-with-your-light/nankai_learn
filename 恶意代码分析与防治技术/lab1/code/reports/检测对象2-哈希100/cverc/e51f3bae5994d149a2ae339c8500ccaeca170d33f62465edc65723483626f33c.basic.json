@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "1464469cf3b6e1b63c93ecf9a19e24e4",
+    "sha1": "96621c80cafee4c42451f99391324d43eda1259b",
+    "sha256": "e51f3bae5994d149a2ae339c8500ccaeca170d33f62465edc65723483626f33c",
+    "file_name": "2023-03-02_1464469cf3b6e1b63c93ecf9a19e24e4_cryptolocker",
+    "upload_time": "2026-06-14 01:26:18",
+    "start_time": "2026-06-14 01:26:18",
+    "end_time": "2026-06-14 01:27:00",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Agent",
+    "size": 52256,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "泄密行为|45"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "abe91c3695dfe76807a3caf66a98ba9b",
+    "sha1": "7cd4679f12e12563ca4da2cd60d1b8c35dfa4f49",
+    "sha256": "e4cb3d788107e0d0be1ad116bed97c6347fa3de53e508b4db55d55c254b91dce",
+    "file_name": "2023-01-11_abe91c3695dfe76807a3caf66a98ba9b_icedid_ipamor",
+    "upload_time": "2026-06-15 03:08:54",
+    "start_time": "2026-06-16 21:29:39",
+    "end_time": "2026-06-16 21:30:05",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.Ipamor.b",
+    "size": 3314361,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 7,
+    "tags": []
+  }
+}

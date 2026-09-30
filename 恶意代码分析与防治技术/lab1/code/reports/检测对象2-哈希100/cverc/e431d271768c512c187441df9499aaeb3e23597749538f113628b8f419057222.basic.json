@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "9369cfa305a2fa505b50f6a49e4904d2",
+    "sha1": "55ea3055e84e53ac67daea5314e20f4b71a47956",
+    "sha256": "e431d271768c512c187441df9499aaeb3e23597749538f113628b8f419057222",
+    "file_name": "2023-01-27_9369cfa305a2fa505b50f6a49e4904d2_virlock",
+    "upload_time": "2026-06-14 20:35:19",
+    "start_time": "2026-06-14 20:35:20",
+    "end_time": "2026-06-14 20:35:59",
+    "format": "EXE",
+    "malware_name": "Grayware/Win32.VirLock.a",
+    "size": 257432,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 3,
+    "tags": []
+  }
+}

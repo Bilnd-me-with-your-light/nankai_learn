@@ -1,0 +1,715 @@
+{
+  "data": {
+    "id": "d78f8ea16f160bf07feedf293094a183d44a508ccfcaa6c1c9a6f1820834cf4b",
+    "type": "file",
+    "links": {
+      "self": "https://www.virustotal.com/api/v3/files/d78f8ea16f160bf07feedf293094a183d44a508ccfcaa6c1c9a6f1820834cf4b"
+    },
+    "attributes": {
+      "contenthash": "e4e7625b680f30017cebf889fbbd528e",
+      "tags": [
+        "spreader",
+        "contains-pe",
+        "zip"
+      ],
+      "magic": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "times_submitted": 3,
+      "names": [
+        "2018-04-14-GandCrab-ransomware勒索.zip",
+        "=?UTF-8?B?MjAxOC0wNC0xNC1HYW5kQ3JhYi1yYW5zb213YXJl5YuS57SiLnppcA==?="
+      ],
+      "last_analysis_stats": {
+        "malicious": 53,
+        "suspicious": 0,
+        "undetected": 15,
+        "harmless": 0,
+        "timeout": 0,
+        "confirmed-timeout": 0,
+        "failure": 0,
+        "type-unsupported": 7
+      },
+      "bundle_info": {
+        "highest_datetime": "2018-04-15 08:42:40",
+        "lowest_datetime": "2018-04-15 08:42:40",
+        "num_children": 1,
+        "extensions": {
+          "exe": 1
+        },
+        "file_types": {
+          "Portable Executable": 1
+        },
+        "type": "ZIP",
+        "uncompressed_size": 253448
+      },
+      "size": 183060,
+      "sha256": "d78f8ea16f160bf07feedf293094a183d44a508ccfcaa6c1c9a6f1820834cf4b",
+      "popular_threat_classification": {
+        "suggested_threat_label": "trojan.gandcrab/chapak",
+        "popular_threat_category": [
+          {
+            "count": 27,
+            "value": "trojan"
+          },
+          {
+            "count": 13,
+            "value": "ransomware"
+          },
+          {
+            "count": 1,
+            "value": "pua"
+          }
+        ],
+        "popular_threat_name": [
+          {
+            "count": 15,
+            "value": "gandcrab"
+          },
+          {
+            "count": 4,
+            "value": "chapak"
+          },
+          {
+            "count": 2,
+            "value": "banker1"
+          }
+        ]
+      },
+      "meaningful_name": "2018-04-14-GandCrab-ransomware勒索.zip",
+      "trid": [
+        {
+          "file_type": "ZIP compressed archive",
+          "probability": 100.0
+        }
+      ],
+      "filecondis": {
+        "raw_md5": "1bce5eaf54b1f632d9654e1610d5f06f",
+        "dhash": "0000000000030300"
+      },
+      "tlsh": "T18D0423AFF9E2F448D80F621C48E323679387FA79D9199F84048C67941225697BFB431B",
+      "magika": "ZIP",
+      "reputation": 0,
+      "total_votes": {
+        "harmless": 0,
+        "malicious": 0
+      },
+      "type_extension": "zip",
+      "unique_sources": 2,
+      "first_submission_date": 1570601125,
+      "type_description": "ZIP",
+      "type_tag": "zip",
+      "last_submission_date": 1743422633,
+      "last_analysis_results": {
+        "Bkav": {
+          "method": "blacklist",
+          "engine_name": "Bkav",
+          "engine_version": "8.2.40(8338)",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "W32.Malware.674DC685"
+        },
+        "Lionic": {
+          "method": "blacklist",
+          "engine_name": "Lionic",
+          "engine_version": "8.16",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Win32.GandCrab.j!c"
+        },
+        "Elastic": {
+          "method": "blacklist",
+          "engine_name": "Elastic",
+          "engine_version": "4.0.291",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "malicious (high confidence)"
+        },
+        "MicroWorld-eScan": {
+          "method": "blacklist",
+          "engine_name": "MicroWorld-eScan",
+          "engine_version": "14.0.409.0",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "ClamAV": {
+          "method": "blacklist",
+          "engine_name": "ClamAV",
+          "engine_version": "1.5.4.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Win.Packed.Gandcrab-6552923-4"
+        },
+        "CTX": {
+          "method": "blacklist",
+          "engine_name": "CTX",
+          "engine_version": "2024.8.29.1",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "zip.ransomware.gandcrab"
+        },
+        "CAT-QuickHeal": {
+          "method": "blacklist",
+          "engine_name": "CAT-QuickHeal",
+          "engine_version": "22.00",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Trojan.Chapak.ZZ6"
+        },
+        "Skyhigh": {
+          "method": "blacklist",
+          "engine_name": "Skyhigh",
+          "engine_version": "v2021.2.0+4045",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Packed-FCX!BB82802F392E"
+        },
+        "ALYac": {
+          "method": "blacklist",
+          "engine_name": "ALYac",
+          "engine_version": "2.0.0.10",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Ransom.GandCrab"
+        },
+        "Malwarebytes": {
+          "method": "blacklist",
+          "engine_name": "Malwarebytes",
+          "engine_version": "3.1.0.272",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Malware.AI.1259509339"
+        },
+        "VIPRE": {
+          "method": "blacklist",
+          "engine_name": "VIPRE",
+          "engine_version": "6.0.0.35",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Ransom.GandCrab.Gen.2"
+        },
+        "Sangfor": {
+          "method": "blacklist",
+          "engine_name": "Sangfor",
+          "engine_version": "2.22.3.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Win32.Save.a"
+        },
+        "K7AntiVirus": {
+          "method": "blacklist",
+          "engine_name": "K7AntiVirus",
+          "engine_version": "14.81.60954",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Ransomware ( 0053305e1 )"
+        },
+        "BitDefender": {
+          "method": "blacklist",
+          "engine_name": "BitDefender",
+          "engine_version": "7.2",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Ransom.GandCrab.Gen.2"
+        },
+        "K7GW": {
+          "method": "blacklist",
+          "engine_name": "K7GW",
+          "engine_version": "14.81.60956",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan ( 0052dee81 )"
+        },
+        "Trustlook": {
+          "method": "blacklist",
+          "engine_name": "Trustlook",
+          "engine_version": "1.0",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "huorong": {
+          "method": "blacklist",
+          "engine_name": "huorong",
+          "engine_version": "d539f73:d539f73:9b8d07d:9b8d07d",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "VirIT": {
+          "method": "blacklist",
+          "engine_name": "VirIT",
+          "engine_version": "9.5.1303",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Trojan.Win32.GandCrab.ATS"
+        },
+        "Symantec": {
+          "method": "blacklist",
+          "engine_name": "Symantec",
+          "engine_version": "1.22.0.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Gen.MBT"
+        },
+        "ESET-NOD32": {
+          "method": "blacklist",
+          "engine_name": "ESET-NOD32",
+          "engine_version": "18.2.18.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Win32/Kryptik.GFPZ trojan"
+        },
+        "TrendMicro-HouseCall": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro-HouseCall",
+          "engine_version": "24.550.0.1002",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Ransom_GANDCRB.THDAGAH"
+        },
+        "Avast": {
+          "method": "blacklist",
+          "engine_name": "Avast",
+          "engine_version": "23.9.8494.0",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Win32:Evo-gen [Trj]"
+        },
+        "Cynet": {
+          "method": "blacklist",
+          "engine_name": "Cynet",
+          "engine_version": "4.0.3.4",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Malicious (score: 99)"
+        },
+        "Kaspersky": {
+          "method": "blacklist",
+          "engine_name": "Kaspersky",
+          "engine_version": "22.0.1.28",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan-Ransom.Win32.GandCrypt.vr"
+        },
+        "Alibaba": {
+          "method": "blacklist",
+          "engine_name": "Alibaba",
+          "engine_version": "0.3.0.5",
+          "engine_update": "20190527",
+          "category": "malicious",
+          "result": "Ransom:Win32/GandCrab.ali1020008"
+        },
+        "NANO-Antivirus": {
+          "method": "blacklist",
+          "engine_name": "NANO-Antivirus",
+          "engine_version": "1.0.170.26895",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Win32.Banker1.fagrio"
+        },
+        "SUPERAntiSpyware": {
+          "method": "blacklist",
+          "engine_name": "SUPERAntiSpyware",
+          "engine_version": "5.6.0.1032",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "Rising": {
+          "method": "blacklist",
+          "engine_name": "Rising",
+          "engine_version": "25.0.0.28",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Kryptik!1.B2FB (CLASSIC)"
+        },
+        "Sophos": {
+          "method": "blacklist",
+          "engine_name": "Sophos",
+          "engine_version": "3.6.2.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Mal/GandCrab-B"
+        },
+        "F-Secure": {
+          "method": "blacklist",
+          "engine_name": "F-Secure",
+          "engine_version": "18.10.1547.307",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.TR/W32.Evo"
+        },
+        "DrWeb": {
+          "method": "blacklist",
+          "engine_name": "DrWeb",
+          "engine_version": "7.0.76.8280",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.PWS.Banker1.27041"
+        },
+        "Zillya": {
+          "method": "blacklist",
+          "engine_name": "Zillya",
+          "engine_version": "2.0.0.5698",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "TrendMicro": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro",
+          "engine_version": "24.550.0.1002",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Ransom_GANDCRB.THDAGAH"
+        },
+        "McAfeeD": {
+          "method": "blacklist",
+          "engine_name": "McAfeeD",
+          "engine_version": "1.2.0.16505",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "ti!D78F8EA16F16"
+        },
+        "CMC": {
+          "method": "blacklist",
+          "engine_name": "CMC",
+          "engine_version": "2.4.2022.1",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "Emsisoft": {
+          "method": "blacklist",
+          "engine_name": "Emsisoft",
+          "engine_version": "2024.8.0.61147",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Ransom.GandCrab.Gen.2 (B)"
+        },
+        "Ikarus": {
+          "method": "blacklist",
+          "engine_name": "Ikarus",
+          "engine_version": "6.5.4.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Win32.Danabot"
+        },
+        "Avast-Mobile": {
+          "method": "blacklist",
+          "engine_name": "Avast-Mobile",
+          "engine_version": "260928-00",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "Jiangmin": {
+          "method": "blacklist",
+          "engine_name": "Jiangmin",
+          "engine_version": "16.0.100",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Trojan.Chapak.el"
+        },
+        "Webroot": {
+          "method": "blacklist",
+          "engine_name": "Webroot",
+          "engine_version": "1.9.0.8",
+          "engine_update": "20250227",
+          "category": "malicious",
+          "result": "W32.Trojan.Gen"
+        },
+        "Varist": {
+          "method": "blacklist",
+          "engine_name": "Varist",
+          "engine_version": "6.6.1.3",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "W32/Chapak.OXJE-3801"
+        },
+        "Avira": {
+          "method": "blacklist",
+          "engine_name": "Avira",
+          "engine_version": "8.3.3.24",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "TR/W32.Evo"
+        },
+        "Antiy-AVL": {
+          "method": "blacklist",
+          "engine_name": "Antiy-AVL",
+          "engine_version": "3.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan/Win32.Agent"
+        },
+        "Kingsoft": {
+          "method": "blacklist",
+          "engine_name": "Kingsoft",
+          "engine_version": "None",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Win32.Trojan-Ransom.GandCrypt.vr"
+        },
+        "Microsoft": {
+          "method": "blacklist",
+          "engine_name": "Microsoft",
+          "engine_version": "1.26080",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "Gridinsoft": {
+          "method": "blacklist",
+          "engine_name": "Gridinsoft",
+          "engine_version": "1.0.255.174",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "Xcitium": {
+          "method": "blacklist",
+          "engine_name": "Xcitium",
+          "engine_version": "38991",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "TrojWare.Win32.GandCrab.GF@7m5bnn"
+        },
+        "Arcabit": {
+          "method": "blacklist",
+          "engine_name": "Arcabit",
+          "engine_version": "2025.0.0.23",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.Ransom.GandCrab.Gen.2"
+        },
+        "ViRobot": {
+          "method": "blacklist",
+          "engine_name": "ViRobot",
+          "engine_version": "2026-09-29.03",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "ZoneAlarm": {
+          "method": "blacklist",
+          "engine_name": "ZoneAlarm",
+          "engine_version": "6.27-118568945",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Mal/GandCrab-D"
+        },
+        "GData": {
+          "method": "blacklist",
+          "engine_name": "GData",
+          "engine_version": "GD:27.46171AVA:64.31986",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Win32.Trojan-Ransom.GandCrab.U"
+        },
+        "Google": {
+          "method": "blacklist",
+          "engine_name": "Google",
+          "engine_version": "1790679668",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Detected"
+        },
+        "AhnLab-V3": {
+          "method": "blacklist",
+          "engine_name": "AhnLab-V3",
+          "engine_version": "3.30.2.10713",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Win-Trojan/Gandcrab.Exp"
+        },
+        "Acronis": {
+          "method": "blacklist",
+          "engine_name": "Acronis",
+          "engine_version": "1.2.0.121",
+          "engine_update": "20240328",
+          "category": "undetected",
+          "result": null
+        },
+        "VBA32": {
+          "method": "blacklist",
+          "engine_name": "VBA32",
+          "engine_version": "5.7.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "BScope.Trojan.Chapak"
+        },
+        "TACHYON": {
+          "method": "blacklist",
+          "engine_name": "TACHYON",
+          "engine_version": "2026-09-29.02",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "Panda": {
+          "method": "blacklist",
+          "engine_name": "Panda",
+          "engine_version": "4.6.4.2",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Trj/Genetic.gen"
+        },
+        "Zoner": {
+          "method": "blacklist",
+          "engine_name": "Zoner",
+          "engine_version": "2.2.2.0",
+          "engine_update": "20260929",
+          "category": "undetected",
+          "result": null
+        },
+        "Tencent": {
+          "method": "blacklist",
+          "engine_name": "Tencent",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Malware.Win32.Gencirc.10b64fbc"
+        },
+        "Yandex": {
+          "method": "blacklist",
+          "engine_name": "Yandex",
+          "engine_version": "5.5.2.24",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "Trojan.GenAsa!+084oc+Q/DE"
+        },
+        "TrellixENS": {
+          "method": "blacklist",
+          "engine_name": "TrellixENS",
+          "engine_version": "6.0.6.653",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Packed-FCX!BB82802F392E"
+        },
+        "SentinelOne": {
+          "method": "blacklist",
+          "engine_name": "SentinelOne",
+          "engine_version": "7.8.0.2",
+          "engine_update": "20260924",
+          "category": "malicious",
+          "result": "Static AI - Malicious Archive"
+        },
+        "MaxSecure": {
+          "method": "blacklist",
+          "engine_name": "MaxSecure",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20260928",
+          "category": "undetected",
+          "result": null
+        },
+        "Fortinet": {
+          "method": "blacklist",
+          "engine_name": "Fortinet",
+          "engine_version": "7.0.48.0",
+          "engine_update": "20260929",
+          "category": "malicious",
+          "result": "W32/GenKryptik.DQHN!tr"
+        },
+        "AVG": {
+          "method": "blacklist",
+          "engine_name": "AVG",
+          "engine_version": "23.9.8494.0",
+          "engine_update": "20260928",
+          "category": "malicious",
+          "result": "Win32:Evo-gen [Trj]"
+        },
+        "DeepInstinct": {
+          "method": "blacklist",
+          "engine_name": "DeepInstinct",
+          "engine_version": "5.0.0.8",
+          "engine_update": "20260614",
+          "category": "malicious",
+          "result": "MALICIOUS"
+        },
+        "CrowdStrike": {
+          "method": "blacklist",
+          "engine_name": "CrowdStrike",
+          "engine_version": "1.0",
+          "engine_update": "20251219",
+          "category": "undetected",
+          "result": null
+        },
+        "alibabacloud": {
+          "method": "blacklist",
+          "engine_name": "alibabacloud",
+          "engine_version": "2.2.0",
+          "engine_update": "20250321",
+          "category": "malicious",
+          "result": "Riskware:Win/Patched.58fc0001"
+        },
+        "SymantecMobileInsight": {
+          "method": "blacklist",
+          "engine_name": "SymantecMobileInsight",
+          "engine_version": "2.0",
+          "engine_update": "20260123",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "BitDefenderFalx": {
+          "method": "blacklist",
+          "engine_name": "BitDefenderFalx",
+          "engine_version": "2.0.936",
+          "engine_update": "20260903",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "tehtris": {
+          "method": "blacklist",
+          "engine_name": "tehtris",
+          "engine_version": "v0.1.4",
+          "engine_update": "20260929",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Trapmine": {
+          "method": "blacklist",
+          "engine_name": "Trapmine",
+          "engine_version": "4.0.16.0",
+          "engine_update": "20260921",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Paloalto": {
+          "method": "blacklist",
+          "engine_name": "Paloalto",
+          "engine_version": "0.9.0.1003",
+          "engine_update": "20260929",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "APEX": {
+          "method": "blacklist",
+          "engine_name": "APEX",
+          "engine_version": "6.825",
+          "engine_update": "20260928",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Cylance": {
+          "method": "blacklist",
+          "engine_name": "Cylance",
+          "engine_version": "3.0.0.0",
+          "engine_update": "20260924",
+          "category": "type-unsupported",
+          "result": null
+        }
+      },
+      "sha1": "830c515254fecc842296c2daf199bd49929aea37",
+      "md5": "4c75f4f36477778f36d168018bb0e092",
+      "type_tags": [
+        "compressed",
+        "zip"
+      ],
+      "last_analysis_date": 1790683004,
+      "ssdeep": "3072:Uwodi86CSaEa9mvDamSiQZW9h8iw63V0u344MaMrqcNINoVYV+q:UNi86CqcmvPSd8weA4JMrqc2RV+q",
+      "vhash": "09d17a9a63917d9849e0707f3c88dad4",
+      "last_modification_date": 1790690354
+    }
+  }
+}

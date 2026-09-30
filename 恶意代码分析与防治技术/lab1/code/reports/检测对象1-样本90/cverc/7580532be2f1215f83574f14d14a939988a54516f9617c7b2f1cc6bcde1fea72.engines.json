@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Agent",
+      "trust": "no"
+    },
+    {
+      "name": "Antiy-Mobile",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "CVERC",
+      "malname": "Detector.FileSize",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.SageRansom.Z1",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "VirTool/Kovter.p",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "VirTool/Kovter.p",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.SageCrypt.nz",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "UDS:DangerousObject.Multi.Generic",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "VIRUS_UNKNOWN",
+      "trust": "no"
+    },
+    {
+      "name": "NanKai",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Ransom.Win.SageCrypt.93dbabbc",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Ransom.Sage!1.F8FE (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

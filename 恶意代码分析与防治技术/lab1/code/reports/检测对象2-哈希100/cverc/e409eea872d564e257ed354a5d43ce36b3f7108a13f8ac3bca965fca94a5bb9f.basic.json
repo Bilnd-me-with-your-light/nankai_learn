@@ -1,0 +1,23 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "3e6e5bd5296aa5e968f100cdcbba728d",
+    "sha1": "8fac3bb29b72dc1632c3e56f8500c90e6e088272",
+    "sha256": "e409eea872d564e257ed354a5d43ce36b3f7108a13f8ac3bca965fca94a5bb9f",
+    "file_name": "2023-01-31_3e6e5bd5296aa5e968f100cdcbba728d_mafia",
+    "upload_time": "2026-06-14 08:03:05",
+    "start_time": "2026-06-14 08:03:05",
+    "end_time": "2026-06-14 08:03:33",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Salgorea.gen[Backdoor]",
+    "size": 497664,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 13,
+    "tags": [
+      "APT组织关联|50",
+      "僵尸远控行为|50"
+    ]
+  }
+}

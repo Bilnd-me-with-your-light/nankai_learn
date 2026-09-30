@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "b46c8f97ad0c81161c14a6f64d4731ee",
+    "sha1": "268d34a6387c9f3a14a1ac729dbfd5507d751629",
+    "sha256": "e426af4f6a8216c69ca34cadf6c1bf0d40ac201488fcec3082bd2c60121cd708",
+    "file_name": "2023-12-24_b46c8f97ad0c81161c14a6f64d4731ee_gandcrab",
+    "upload_time": "2026-06-09 21:29:10",
+    "start_time": "2026-06-09 21:29:10",
+    "end_time": "2026-06-09 21:30:18",
+    "format": "EXE",
+    "malware_name": "HackTool/Win32.Inject",
+    "size": 151040,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "勒索行为|80"
+    ]
+  }
+}

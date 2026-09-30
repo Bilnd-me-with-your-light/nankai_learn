@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "2b5041d6332ba29ca64895d917b5865d",
+    "sha1": "ab83977e82d682247b6f3f9442d5ae593c39d220",
+    "sha256": "e4e43d928a01a18bb62ee983a7fc0c62c4230a8e6ed1274d390e57442ef7349b",
+    "file_name": "2023-01-27_2b5041d6332ba29ca64895d917b5865d_hacktools_icedid",
+    "upload_time": "2026-06-14 21:54:14",
+    "start_time": "2026-06-14 21:54:15",
+    "end_time": "2026-06-14 21:54:51",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Presenoker",
+    "size": 1204224,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 9,
+    "tags": []
+  }
+}

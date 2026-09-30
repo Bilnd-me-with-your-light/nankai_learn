@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Virus/Win32.Expiro.ropf",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Adware.Imali.a",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Dropper.Remcos-9970861-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "AdWare/Imali.a",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Adware.tpa.krw4tv",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Adware.Win32.Imali.A",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "G_PUA.Gen.48PPr!pMZu",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "PUF.Imali!8.F619 (TFE:5:lWEaqaYPbUQ)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.pkr",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "AdWare.Win32.Imali.ha",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

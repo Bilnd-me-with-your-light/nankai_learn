@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "3efc9a4525b52e3c8676911ca40af5d9",
+    "sha1": "221cf84ae7bc5eb2511b50af66393f0cb9d215d6",
+    "sha256": "e515b26fc253c4b00c1d54128e28e958fb3d04b072d46d6c3397ecba848dd5d0",
+    "file_name": "2023-10-07_3efc9a4525b52e3c8676911ca40af5d9_mafia",
+    "upload_time": "2026-06-10 03:03:54",
+    "start_time": "2026-06-10 03:03:54",
+    "end_time": "2026-06-10 03:04:49",
+    "format": "EXE",
+    "malware_name": "Riskware/Win32.Eyoorun",
+    "size": 3405000,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 13,
+    "tags": []
+  }
+}

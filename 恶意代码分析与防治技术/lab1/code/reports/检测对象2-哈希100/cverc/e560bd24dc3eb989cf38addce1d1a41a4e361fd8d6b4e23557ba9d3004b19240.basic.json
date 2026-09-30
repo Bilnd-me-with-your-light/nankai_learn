@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "a132143fdb64c83bef315cc9d7885d62",
+    "sha1": "c8870d72a369d05d1397cd0829abccefe6f52fe7",
+    "sha256": "e560bd24dc3eb989cf38addce1d1a41a4e361fd8d6b4e23557ba9d3004b19240",
+    "file_name": "2023-01-10_a132143fdb64c83bef315cc9d7885d62_icedid_xiaobaminer",
+    "upload_time": "2026-06-15 04:07:32",
+    "start_time": "2026-06-16 19:45:34",
+    "end_time": "2026-06-16 19:46:13",
+    "format": "EXE",
+    "malware_name": "Riskware/Win32.BitMiner.h",
+    "size": 7892496,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 12,
+    "tags": [
+      "挖矿行为|60"
+    ]
+  }
+}

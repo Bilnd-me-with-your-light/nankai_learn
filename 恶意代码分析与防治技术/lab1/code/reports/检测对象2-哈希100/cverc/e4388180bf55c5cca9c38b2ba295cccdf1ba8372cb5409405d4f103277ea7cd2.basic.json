@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "a574e2dbb69173b6aafc83a16f423663",
+    "sha1": "b8a9de90106c6350993fdf5b8acbf49254b21119",
+    "sha256": "e4388180bf55c5cca9c38b2ba295cccdf1ba8372cb5409405d4f103277ea7cd2",
+    "file_name": "2023-01-02_a574e2dbb69173b6aafc83a16f423663_virlock",
+    "upload_time": "2026-06-15 04:43:28",
+    "start_time": "2026-06-16 20:27:59",
+    "end_time": "2026-06-16 20:28:45",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.VirLock.j",
+    "size": 2035712,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 10,
+    "tags": [
+      "勒索行为|40"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "aaf5c4f6466e615a3c9396497007389f",
+    "sha1": "e925c8a57d3ba1a2882f187fb4ce21ba8c80063f",
+    "sha256": "e4340671519e67e8bf5f79c24b9ddeb2393e79f6f9467d89167eb81dbb4c0056",
+    "file_name": "2023-12-27_aaf5c4f6466e615a3c9396497007389f_cryptolocker",
+    "upload_time": "2026-06-09 20:44:23",
+    "start_time": "2026-06-09 20:44:23",
+    "end_time": "2026-06-09 20:45:10",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.Expiro.imp",
+    "size": 57404,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "泄密行为|40"
+    ]
+  }
+}

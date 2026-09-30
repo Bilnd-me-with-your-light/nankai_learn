@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "4bd25dd95792d7f07bf204c0793bb43e",
+    "sha1": "ff3a10a50b5172764480d19a14a3555b691b143f",
+    "sha256": "e48dc1d0b17bc94b3421040c54875de5289ac8800802c0a89f26a0796187779b",
+    "file_name": "2023-09-15_4bd25dd95792d7f07bf204c0793bb43e_ryuk",
+    "upload_time": "2026-06-10 05:58:17",
+    "start_time": "2026-06-10 05:58:17",
+    "end_time": "2026-06-10 05:59:28",
+    "format": "EXE",
+    "malware_name": "Virus/Win32.Lamer.cb",
+    "size": 23320030,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "勒索行为|50",
+      "APT组织关联|60",
+      "U盘摆渡行为|40"
+    ]
+  }
+}

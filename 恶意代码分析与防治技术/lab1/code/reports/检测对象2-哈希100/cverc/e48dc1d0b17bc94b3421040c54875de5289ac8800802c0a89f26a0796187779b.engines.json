@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Virus/Win32.Lamer.cb",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Virus.Lamer.d",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Virus.Stihat-9753082-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Virus/Lamer.a$R",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Virus/Lamer.a$R",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan/Mepaow.d",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Virus.Win32.Lamer.cb",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Ransom.tpa.kr3ck9",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win32.AutoRun.CH",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Virus.Win32.Lamer.I",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Ransom.Ryuk!1.B585 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Ransom.Win32.Ryuk_15.se2",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Virus.Win32.Lamer.cf",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

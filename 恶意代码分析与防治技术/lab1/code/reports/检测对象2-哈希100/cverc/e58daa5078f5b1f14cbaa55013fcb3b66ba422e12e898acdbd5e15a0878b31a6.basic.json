@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "a2fec39c2a947c78702fe79f6e8f7942",
+    "sha1": "c1a0d73bad1257dcd58395737c99709caa7b6097",
+    "sha256": "e58daa5078f5b1f14cbaa55013fcb3b66ba422e12e898acdbd5e15a0878b31a6",
+    "file_name": "2023-12-19_a2fec39c2a947c78702fe79f6e8f7942_lockbit",
+    "upload_time": "2026-06-09 21:11:59",
+    "start_time": "2026-06-09 21:11:59",
+    "end_time": "2026-06-09 21:12:33",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.LockBit[Ransom]",
+    "size": 146944,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 13,
+    "tags": [
+      "勒索行为|80"
+    ]
+  }
+}

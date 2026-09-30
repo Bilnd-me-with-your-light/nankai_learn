@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "5ee5f25ea4d82400e337e7b388c23513",
+    "sha1": "ee6f1ba03bc618d68fc517a0de283ef82e09e432",
+    "sha256": "e407076bd7576e05d6d9b4a37fca380d9b8561c308f9eb1f1ed9c42861234a48",
+    "file_name": "2023-12-22_5ee5f25ea4d82400e337e7b388c23513_icedid",
+    "upload_time": "2026-06-09 21:20:37",
+    "start_time": "2026-06-09 21:20:38",
+    "end_time": "2026-06-09 21:21:13",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Gamup[Downloader]",
+    "size": 431222,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "僵尸远控行为|40"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "1db085de7b58d433ca95321aa1ce203e",
+    "sha1": "e9d319bdb1d847a884b7120f6e036965a155675f",
+    "sha256": "e48f56198e301531ce5bff14c3abdfab0059d61b0bc47d9da5a3618342364fb7",
+    "file_name": "2023-07-19_1db085de7b58d433ca95321aa1ce203e_mafia",
+    "upload_time": "2026-06-13 06:29:30",
+    "start_time": "2026-06-13 06:29:30",
+    "end_time": "2026-06-13 06:30:43",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Agent",
+    "size": 499200,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 13,
+    "tags": [
+      "APT组织关联|50",
+      "僵尸远控行为|40"
+    ]
+  }
+}

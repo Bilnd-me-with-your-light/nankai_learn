@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Keydoor[Spy]",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.Generic.fR8b",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Malware.Gamarue-9952453-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Trojan/Injector.ban",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Trojan/Injector.ban",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Backdoor/Androm.irq",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan.Win32.Scarsi.gen",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Malware.tpa.krq796",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.MPE.Generic.AJ",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "G_Trojan.Gen.48PPr!60dO",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Backdoor.Rifdoor!8.107C7 (TFE:5:5f1MSkGkr5G)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.pkr",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan.Win32.Sabsik.we",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

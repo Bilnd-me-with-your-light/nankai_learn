@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Virus/Win32.Expiro.imp",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Trojan/Win32.zbot.I42",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Trojan.Upatre-3337",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "TrojanSpy/Zbot.cq",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "TrojanSpy/Zbot.cq",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "TrojanSpy.Zbot.eafz",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan-Spy.Win32.Zbot.gen",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Malware.tpa.krt8fy",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win32.Upatre.GELUC",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Downloader.Win32.Upatre.AH",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Trojan.Agent!1.E982 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan-DL.Win32.Small.kf",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

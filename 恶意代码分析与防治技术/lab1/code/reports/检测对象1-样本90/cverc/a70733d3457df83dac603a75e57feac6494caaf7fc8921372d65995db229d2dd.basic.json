@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "7484ec0e1331cd121e63ce6bc540a78f",
+    "sha1": "e9581576da0bcc195db2975b37646c2fd1b3fcf3",
+    "sha256": "a70733d3457df83dac603a75e57feac6494caaf7fc8921372d65995db229d2dd",
+    "file_name": "7484ec0e1331cd121e63ce6bc540a78f_7484ec0e1331cd121e63ce6bc540a78f",
+    "upload_time": "2026-07-01 19:29:10",
+    "start_time": "2026-07-01 19:49:12",
+    "end_time": "2026-07-01 19:51:26",
+    "format": "COMPRESS",
+    "malware_name": "Trojan/Win32.Kryptik.ghvw",
+    "size": 143506,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 11,
+    "tags": []
+  }
+}

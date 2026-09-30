@@ -1,0 +1,51 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Rapid.a[Ransom]",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Ransom/Filecoder.v",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.Generic.80F1CB37",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan-Ransom.Win32.Generic",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Ransom.MPE.CryptoWire.A",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Ransom.CryptoWire/Autoit!1.C3A2 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

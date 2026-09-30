@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "8f9a7eb10a20487e86b0aaf1a3ceda4f",
+    "sha1": "94d9b655e3d295c107640d896901b8b9fa080a4e",
+    "sha256": "e495f0b37d12ff7be26589c90163af22a47817ad3089117f51ea5feef28f92dc",
+    "file_name": "2023-04-15_8f9a7eb10a20487e86b0aaf1a3ceda4f_icedid",
+    "upload_time": "2026-06-13 18:13:05",
+    "start_time": "2026-06-13 18:13:06",
+    "end_time": "2026-06-13 18:13:42",
+    "format": "EXE",
+    "malware_name": "Trojan/Script.Phonzy",
+    "size": 451472,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 7,
+    "tags": []
+  }
+}

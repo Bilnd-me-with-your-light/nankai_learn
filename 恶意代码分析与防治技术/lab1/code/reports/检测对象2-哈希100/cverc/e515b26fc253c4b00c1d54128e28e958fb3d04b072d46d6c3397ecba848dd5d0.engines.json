@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Riskware/Win32.Eyoorun",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.Agent.bi2",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Win.Malware.Zusy-9819743-0",
+      "trust": "no"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "Trojan/Toga.a",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "Trojan/Toga.a",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.Agentb.bnl",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "Trojan.Win32.Agentb.bqaf",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win.Troj.tpa.pbxhj8",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.MPE.Toga.A",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Trojan.Win32.Agentb.C",
+      "trust": "no"
+    },
+    {
+      "name": "Rising",
+      "malname": "Trojan.Agent!8.B1E (TFE:5:x5n5ili1I4I)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Suspicious.Win32.Save.pkr",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Trojan.Win32.Agentb.wq",
+      "trust": "no"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Undetected",
+      "trust": "unknown"
+    }
+  ]
+}

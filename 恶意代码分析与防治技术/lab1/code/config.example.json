@@ -1,0 +1,5 @@
+{
+  "_说明": "把本文件复制成 config.json 并填入自己的 key，就不用每次在命令行里带了。也可以用环境变量 VT_API_KEY / CVERC_API_KEY，命令行参数的优先级最高。",
+  "vt_api_key": "",
+  "cverc_api_key": ""
+}

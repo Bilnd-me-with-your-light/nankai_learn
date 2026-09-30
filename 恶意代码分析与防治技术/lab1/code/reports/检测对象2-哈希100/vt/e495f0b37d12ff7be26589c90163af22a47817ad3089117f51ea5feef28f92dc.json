@@ -1,0 +1,2525 @@
+{
+  "data": {
+    "id": "e495f0b37d12ff7be26589c90163af22a47817ad3089117f51ea5feef28f92dc",
+    "type": "file",
+    "links": {
+      "self": "https://www.virustotal.com/api/v3/files/e495f0b37d12ff7be26589c90163af22a47817ad3089117f51ea5feef28f92dc"
+    },
+    "attributes": {
+      "tlsh": "T11FA46B02F7F5C076C2A322714EAA877966B5BD105B364BC773843F2E1D716C2AA39346",
+      "pe_info": {
+        "timestamp": 1378724440,
+        "imphash": "9c22b849e7bbeaa48d629de4759bcd90",
+        "machine_type": 332,
+        "entry_point": 132088,
+        "resource_details": [
+          {
+            "lang": "ENGLISH US",
+            "chi2": 26231.5,
+            "filetype": "unknown",
+            "entropy": 5.1781158447265625,
+            "sha256": "f32590a77eefc87a65caea8dea3df279cbd64ef8bed2ef59030dc489c28ef5ce",
+            "type": "SETUPTAG"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 20527.75,
+            "filetype": "unknown",
+            "entropy": 3.026951551437378,
+            "sha256": "fbeb3be87e80cb8e1d2af3d8140796c1bb80c6c7056f60897088ff9e355c3867",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 18573.42,
+            "filetype": "unknown",
+            "entropy": 2.7427444458007812,
+            "sha256": "f64ccc0582bc7c66af8b40049e485e8e241335261ec95ace909293ba50b2e4a3",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 25932.0,
+            "filetype": "unknown",
+            "entropy": 2.3403780460357666,
+            "sha256": "652988945185cf5d604d9b48de66288d82d8ed0acdd134398e90d002d2d9fc72",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 25714.24,
+            "filetype": "unknown",
+            "entropy": 2.3400356769561768,
+            "sha256": "0b0e16c38a3d5a85566e67b1d9a7e720e4dee27e163b06099d3d7dfa5dbed9ee",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 23739.37,
+            "filetype": "unknown",
+            "entropy": 2.5164902210235596,
+            "sha256": "368f9cb089d206a8b61251f0c85eeda97ee08a56b33be8579246e964d3af6169",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 24244.72,
+            "filetype": "unknown",
+            "entropy": 2.4540092945098877,
+            "sha256": "6440c3a38dcfb81d45bc6be31b776fdae116dd7a2933b407b67132f6cfa0e6eb",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 26429.05,
+            "filetype": "unknown",
+            "entropy": 2.348637342453003,
+            "sha256": "9882a8462ce9de3cc9a5d0ca48c8c4f7ca97f1f846f0c10e6655e33c9734b152",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 26435.7,
+            "filetype": "unknown",
+            "entropy": 2.345054864883423,
+            "sha256": "322e92d75b3fec9e16b81466f4cf111d298b80812d5b238f4ee032c025a02050",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 26429.05,
+            "filetype": "unknown",
+            "entropy": 2.348637342453003,
+            "sha256": "8db6df648274a0fc3d28430367216e1c17c364ca613066cbb0e133637e92ba62",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 26837.98,
+            "filetype": "unknown",
+            "entropy": 2.3111374378204346,
+            "sha256": "f9c81ce9b4176b305c554a15f0ca2b98b11be76c1f13ef22169999aa07e9612f",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 16714.33,
+            "filetype": "unknown",
+            "entropy": 3.3360934257507324,
+            "sha256": "601635482a9b1864ea0c61ce0282c5c9fe1d014aa95dbb4f60770f1c2b6df3da",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 20248.46,
+            "filetype": "unknown",
+            "entropy": 2.8131332397460938,
+            "sha256": "2bf742d2beb4c56dd6eb68347dd8ee28da85bed9e6d165b36c6edb91da01d5d6",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 11233.61,
+            "filetype": "unknown",
+            "entropy": 3.8149096965789795,
+            "sha256": "cfc4ff9e46fbb61f61b68f36adc6593b137233d1cbaa50fe37e5653f0cb20396",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 30412.0,
+            "filetype": "unknown",
+            "entropy": 2.1001555919647217,
+            "sha256": "c4a6e3a7a346baecb09a0c49268eb44f388382a7866a4e912b53d48fa3b34c26",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 31043.69,
+            "filetype": "unknown",
+            "entropy": 1.9705222845077515,
+            "sha256": "f273e554605a89aa0994c9d42bc2569be3db5b19b2900dacb30f3218ed1174a0",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 28832.78,
+            "filetype": "unknown",
+            "entropy": 2.2269911766052246,
+            "sha256": "ebaf4bcc0f0d7ca9a3458ea52520d2dd10811069241940b9b2e79ac1a4c3ca5c",
+            "type": "RT_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 9939.36,
+            "filetype": "unknown",
+            "entropy": 5.8416242599487305,
+            "sha256": "1c7e69c5109713b52818372ed335fa706f1adc17595f7f1cf0c6d79bd12e5f30",
+            "type": "RT_BITMAP"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 15874.44,
+            "filetype": "unknown",
+            "entropy": 2.236664295196533,
+            "sha256": "e7c0005285d1ab59732d5f99f77a9bdd6342b01cf44437ebd7a07611a227e272",
+            "type": "RT_BITMAP"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 15870.37,
+            "filetype": "unknown",
+            "entropy": 2.876206636428833,
+            "sha256": "abdf36bde89a26349f5741c17c235dacea88d441d8662ba16a598dc50c3c4864",
+            "type": "RT_BITMAP"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 307361.0,
+            "filetype": "unknown",
+            "entropy": 0.5525875091552734,
+            "sha256": "6f8d793b65cc8629cd5cd24a5f13d18d4544b9910dcab86e8be99d8522049e24",
+            "type": "RT_ICON"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 397039.97,
+            "filetype": "unknown",
+            "entropy": 1.0620765686035156,
+            "sha256": "af5dcbb012e9c74347c9ece9b8e009a489485f7c4fc74821144b944920319e51",
+            "type": "RT_ICON"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 831054.69,
+            "filetype": "unknown",
+            "entropy": 1.3258271217346191,
+            "sha256": "93661bcd7fcbda96554e3fd0e02c658a4201227fe5f692477dc146c349c580f5",
+            "type": "RT_ICON"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 50418.17,
+            "filetype": "unknown",
+            "entropy": 3.081477165222168,
+            "sha256": "2146db52f7fc047d60e2f69784b9c4641b3612d2ca14acef7ba165777f227a5f",
+            "type": "RT_DIALOG"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 20890.21,
+            "filetype": "unknown",
+            "entropy": 3.0667619705200195,
+            "sha256": "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3",
+            "type": "RT_DIALOG"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 11575.1,
+            "filetype": "unknown",
+            "entropy": 2.8170533180236816,
+            "sha256": "d91dc4e26fd86def5ee907c72f32457bea07d21fa618012245f641d08501548d",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 7894.0,
+            "filetype": "unknown",
+            "entropy": 0.9609531760215759,
+            "sha256": "05e0d5787611ed4f643733e3e6e62d00f426422b5d3e443ceebac22e9d294bc4",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 29366.59,
+            "filetype": "unknown",
+            "entropy": 3.085610866546631,
+            "sha256": "66f1747ba4c17f6fca44818ed98445f01645651c120e72f558245e2df6949d35",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 83957.0,
+            "filetype": "unknown",
+            "entropy": 3.261389970779419,
+            "sha256": "d036e1af5639fb867f5035330e81788bbc24eff762610e3f6bba5d78903a845a",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 55449.91,
+            "filetype": "unknown",
+            "entropy": 3.02530837059021,
+            "sha256": "c054645d86387fd491743027e6c2284d6a7262f6aced9321cbc1465cef2b6b1f",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 51396.89,
+            "filetype": "unknown",
+            "entropy": 3.1699700355529785,
+            "sha256": "c1bc5318a82ea1a1809618040026851947f6aa5171d904a9e60966f4551ca1a3",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 12962.52,
+            "filetype": "unknown",
+            "entropy": 2.7108659744262695,
+            "sha256": "35b5abb90316b4017d5531e031cbf15bae6e8dd46f6dd221701693a22a7795be",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 15271.34,
+            "filetype": "unknown",
+            "entropy": 2.6390249729156494,
+            "sha256": "1b8660b0c53b94f3e029de58e56d08c8097a080244e9dc65d4155a9b603820d8",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 18244.59,
+            "filetype": "unknown",
+            "entropy": 2.878065586090088,
+            "sha256": "31bff9afbf08a8869318cd946a1d73a4425afefc5693c6e06671bde1e86de1dc",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 81938.04,
+            "filetype": "unknown",
+            "entropy": 3.2325892448425293,
+            "sha256": "36db380991291cac5c99e42332efda20210f63985544d95e8fa6ef85bf2bdf8e",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 43175.7,
+            "filetype": "unknown",
+            "entropy": 3.0946567058563232,
+            "sha256": "7f51554313c6765ba649783a942064cdfe6f5a70248a6f56840f71969f87ced0",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 7961.82,
+            "filetype": "unknown",
+            "entropy": 1.0787549018859863,
+            "sha256": "0714c554acd308b38c3d6319f7e470f76a16d712f696545eacac2bdc725dfb95",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 8288.91,
+            "filetype": "unknown",
+            "entropy": 1.959641933441162,
+            "sha256": "1f1b61a7f04edc3691a6c9350132b09929d5bfa1c900f6ff500e55c5ebc63212",
+            "type": "RT_STRING"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 2977.76,
+            "filetype": "unknown",
+            "entropy": 2.254513740539551,
+            "sha256": "f9cb2c13ebaaa826fc9e85033fffe3259f22f28d9cff2d53f9086d2f3bfafaed",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "ec26c438d10e3e84ec855c47f07a176e6c11bbfae1557d526490711b80f087fe",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "326c048595bbc72e3f989cb3b95fbf09dc83739ced3cb13eb6f03336f95d74f1",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "ee63d4681e7622067fd29005c6cc67b456031eb723c7239f05f1cb097af0ef98",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "da738753c27f2708bd2257f8cac3385a4ccb0df1341b76acfda07fa980cfb4bd",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 1797.6,
+            "filetype": "unknown",
+            "entropy": 2.0192408561706543,
+            "sha256": "3f02dcac38fffe306e1825846e2bc0458ee712696310d051e3a69ebda8330cc3",
+            "type": "RT_GROUP_CURSOR"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 3621.33,
+            "filetype": "ICO",
+            "entropy": 2.5910861492156982,
+            "sha256": "dfc667ec6464713e9fe56db2151ca6004534795307980c4e3ddfcdccff45c07e",
+            "type": "RT_GROUP_ICON"
+          },
+          {
+            "lang": "ENGLISH US",
+            "chi2": 63766.11,
+            "filetype": "unknown",
+            "entropy": 3.357701063156128,
+            "sha256": "56dd2b69a8c3019698527be116c7f28a64a5de5b8150282061f77580b45129a5",
+            "type": "RT_VERSION"
+          }
+        ],
+        "resource_langs": {
+          "ENGLISH US": 55
+        },
+        "resource_types": {
+          "RT_DIALOG": 2,
+          "RT_GROUP_CURSOR": 15,
+          "RT_ICON": 3,
+          "SETUPTAG": 1,
+          "RT_STRING": 13,
+          "RT_BITMAP": 3,
+          "RT_CURSOR": 16,
+          "RT_VERSION": 1,
+          "RT_GROUP_ICON": 1
+        },
+        "overlay": {
+          "chi2": 5754.02,
+          "filetype": "unknown",
+          "entropy": 7.398465156555176,
+          "offset": 447488,
+          "md5": "a433c12dce3ba4780e5bd8225dbd29c5",
+          "size": 3984
+        },
+        "sections": [
+          {
+            "name": ".text",
+            "chi2": 1628892.0,
+            "virtual_address": 4096,
+            "entropy": 6.65,
+            "raw_size": 300032,
+            "flags": "rx",
+            "virtual_size": 299782,
+            "md5": "75532cc4e43463c20f3c4725ea129bfc"
+          },
+          {
+            "name": ".rdata",
+            "chi2": 2453366.25,
+            "virtual_address": 307200,
+            "entropy": 5.64,
+            "raw_size": 86016,
+            "flags": "r",
+            "virtual_size": 85756,
+            "md5": "867215b63c571a1e7eeabd08f0557307"
+          },
+          {
+            "name": ".data",
+            "chi2": 4891512.0,
+            "virtual_address": 393216,
+            "entropy": 2.14,
+            "raw_size": 31232,
+            "flags": "rw",
+            "virtual_size": 78644,
+            "md5": "55e35e434cc67e81ca1b85f1f086d9e7"
+          },
+          {
+            "name": ".rsrc",
+            "chi2": 2594291.75,
+            "virtual_address": 475136,
+            "entropy": 3.45,
+            "raw_size": 29184,
+            "flags": "r",
+            "virtual_size": 28696,
+            "md5": "0b5e901e17bf118a6ee26240c0b01031"
+          }
+        ],
+        "compiler_product_versions": [
+          "id: 95, version: 4035 count=11",
+          "id: 93, version: 4035 count=31",
+          "[---] Unmarked objects count=652",
+          "[ASM] VS2003 (.NET) SP1 build 6030 count=28",
+          "id: 96, version: 6041 count=100",
+          "[C++] VS2003 (.NET) build 3077 count=3",
+          "[ C ] VS2003 (.NET) SP1 build 6030 count=206",
+          "[C++] VS2003 (.NET) SP1 build 6030 count=39",
+          "[RES] VS2003 (.NET) build 3052 count=1",
+          "[LNK] VS2003 (.NET) SP1 build 6030 count=1"
+        ],
+        "rich_pe_header_hash": "90fb29a592cefc0ad5799f27a324d279",
+        "import_list": [
+          {
+            "library_name": "comdlg32.dll",
+            "imported_functions": [
+              "GetFileTitleW"
+            ]
+          },
+          {
+            "library_name": "urlmon.dll",
+            "imported_functions": [
+              "URLDownloadToFileA"
+            ]
+          },
+          {
+            "library_name": "COMCTL32.dll",
+            "imported_functions": [
+              "Ord(17)"
+            ]
+          },
+          {
+            "library_name": "WININET.dll",
+            "imported_functions": [
+              "DetectAutoProxyUrl",
+              "HttpOpenRequestA",
+              "HttpOpenRequestW",
+              "HttpQueryInfoA",
+              "HttpSendRequestA",
+              "HttpSendRequestW",
+              "InternetCloseHandle",
+              "InternetConnectA",
+              "InternetConnectW",
+              "InternetErrorDlg",
+              "InternetOpenA",
+              "InternetOpenW",
+              "InternetQueryOptionA",
+              "InternetReadFile",
+              "InternetReadFileExA",
+              "InternetSetOptionA"
+            ]
+          },
+          {
+            "library_name": "GDI32.dll",
+            "imported_functions": [
+              "CreateBitmap",
+              "CreateRectRgnIndirect",
+              "CreateRoundRectRgn",
+              "CreateSolidBrush",
+              "DeleteDC",
+              "DeleteObject",
+              "Escape",
+              "ExtSelectClipRgn",
+              "ExtTextOutW",
+              "FrameRgn",
+              "GetBkColor",
+              "GetClipBox",
+              "GetDeviceCaps",
+              "GetMapMode",
+              "GetObjectW",
+              "GetRgnBox",
+              "GetStockObject",
+              "GetTextColor",
+              "GetViewportExtEx",
+              "GetWindowExtEx",
+              "OffsetViewportOrgEx",
+              "PtVisible",
+              "RectVisible",
+              "RestoreDC",
+              "SaveDC",
+              "ScaleViewportExtEx",
+              "ScaleWindowExtEx",
+              "SelectObject",
+              "SetBkColor",
+              "SetBkMode",
+              "SetMapMode",
+              "SetTextColor",
+              "SetViewportExtEx",
+              "SetViewportOrgEx",
+              "SetWindowExtEx",
+              "TextOutW"
+            ]
+          },
+          {
+            "library_name": "ADVAPI32.dll",
+            "imported_functions": [
+              "AdjustTokenPrivileges",
+              "CloseServiceHandle",
+              "ControlService",
+              "GetUserNameW",
+              "ImpersonateSelf",
+              "LookupPrivilegeValueW",
+              "OpenSCManagerW",
+              "OpenServiceW",
+              "OpenThreadToken",
+              "RegCloseKey",
+              "RegCreateKeyExW",
+              "RegDeleteKeyW",
+              "RegEnumKeyW",
+              "RegOpenKeyExW",
+              "RegOpenKeyW",
+              "RegQueryValueExW",
+              "RegQueryValueW",
+              "RegSetValueExW"
+            ]
+          },
+          {
+            "library_name": "KERNEL32.dll",
+            "imported_functions": [
+              "CloseHandle",
+              "CompareStringA",
+              "CompareStringW",
+              "ConvertDefaultLocale",
+              "CopyFileW",
+              "CreateDirectoryW",
+              "CreateEventW",
+              "CreateFileA",
+              "CreateFileW",
+              "CreateProcessW",
+              "CreateThread",
+              "CreateToolhelp32Snapshot",
+              "DeleteCriticalSection",
+              "DeleteFileA",
+              "DeleteFileW",
+              "DuplicateHandle",
+              "EnterCriticalSection",
+              "EnumResourceLanguagesW",
+              "EnumSystemLocalesA",
+              "ExitProcess",
+              "ExitThread",
+              "FileTimeToDosDateTime",
+              "FileTimeToLocalFileTime",
+              "FileTimeToSystemTime",
+              "FindClose",
+              "FindFirstFileW",
+              "FindNextFileW",
+              "FindResourceW",
+              "FlushFileBuffers",
+              "FormatMessageW",
+              "FreeEnvironmentStringsA",
+              "FreeEnvironmentStringsW",
+              "FreeLibrary",
+              "FreeResource",
+              "GetACP",
+              "GetCommandLineA",
+              "GetCommandLineW",
+              "GetCPInfo",
+              "GetCurrentDirectoryA",
+              "GetCurrentDirectoryW",
+              "GetCurrentProcess",
+              "GetCurrentProcessId",
+              "GetCurrentThread",
+              "GetCurrentThreadId",
+              "GetDriveTypeA",
+              "GetDriveTypeW",
+              "GetEnvironmentStrings",
+              "GetEnvironmentStringsW",
+              "GetFileAttributesW",
+              "GetFileSize",
+              "GetFileTime",
+              "GetFileType",
+              "GetFullPathNameW",
+              "GetLastError",
+              "GetLocaleInfoA",
+              "GetLocaleInfoW",
+              "GetLongPathNameW",
+              "GetModuleFileNameA",
+              "GetModuleFileNameW",
+              "GetModuleHandleA",
+              "GetModuleHandleW",
+              "GetOEMCP",
+              "GetProcAddress",
+              "GetStartupInfoA",
+              "GetStartupInfoW",
+              "GetStdHandle",
+              "GetStringTypeA",
+              "GetStringTypeW",
+              "GetSystemInfo",
+              "GetSystemTimeAsFileTime",
+              "GetTempFileNameA",
+              "GetTempPathA",
+              "GetTempPathW",
+              "GetThreadLocale",
+              "GetTickCount",
+              "GetTimeZoneInformation",
+              "GetUserDefaultLCID",
+              "GetVersion",
+              "GetVersionExA",
+              "GetVersionExW",
+              "GetVolumeInformationW",
+              "GlobalAddAtomW",
+              "GlobalAlloc",
+              "GlobalDeleteAtom",
+              "GlobalFindAtomW",
+              "GlobalFlags",
+              "GlobalFree",
+              "GlobalHandle",
+              "GlobalLock",
+              "GlobalReAlloc",
+              "GlobalUnlock",
+              "HeapAlloc",
+              "HeapCreate",
+              "HeapDestroy",
+              "HeapFree",
+              "HeapReAlloc",
+              "HeapSize",
+              "InitializeCriticalSection",
+              "InterlockedDecrement",
+              "InterlockedExchange",
+              "InterlockedIncrement",
+              "IsBadCodePtr",
+              "IsBadReadPtr",
+              "IsBadWritePtr",
+              "IsDebuggerPresent",
+              "IsValidCodePage",
+              "IsValidLocale",
+              "LCMapStringA",
+              "LCMapStringW",
+              "LeaveCriticalSection",
+              "LoadLibraryA",
+              "LoadLibraryW",
+              "LoadResource",
+              "LocalAlloc",
+              "LocalFree",
+              "LocalReAlloc",
+              "LockFile",
+              "LockResource",
+              "lstrcatW",
+              "lstrcmpiW",
+              "lstrcmpW",
+              "lstrcpynW",
+              "lstrcpyW",
+              "lstrlenA",
+              "lstrlenW",
+              "MulDiv",
+              "MultiByteToWideChar",
+              "OpenProcess",
+              "OutputDebugStringW",
+              "Process32FirstW",
+              "Process32NextW",
+              "QueryPerformanceCounter",
+              "QueryPerformanceFrequency",
+              "RaiseException",
+              "ReadFile",
+              "RemoveDirectoryW",
+              "RtlUnwind",
+              "SetEndOfFile",
+              "SetEnvironmentVariableA",
+              "SetErrorMode",
+              "SetEvent",
+              "SetFileAttributesW",
+              "SetFilePointer",
+              "SetHandleCount",
+              "SetLastError",
+              "SetStdHandle",
+              "SetThreadPriority",
+              "SetUnhandledExceptionFilter",
+              "SizeofResource",
+              "Sleep",
+              "TerminateProcess",
+              "TlsAlloc",
+              "TlsFree",
+              "TlsGetValue",
+              "TlsSetValue",
+              "UnhandledExceptionFilter",
+              "UnlockFile",
+              "VirtualAlloc",
+              "VirtualFree",
+              "VirtualProtect",
+              "VirtualQuery",
+              "WideCharToMultiByte",
+              "WriteFile",
+              "WritePrivateProfileStringW"
+            ]
+          },
+          {
+            "library_name": "WINSPOOL.DRV",
+            "imported_functions": [
+              "ClosePrinter",
+              "DocumentPropertiesW",
+              "OpenPrinterW"
+            ]
+          },
+          {
+            "library_name": "oledlg.dll",
+            "imported_functions": [
+              "OleUIBusyW"
+            ]
+          },
+          {
+            "library_name": "SHELL32.dll",
+            "imported_functions": [
+              "SHCreateDirectoryExW",
+              "ShellExecuteW",
+              "SHGetFolderPathW",
+              "SHGetSpecialFolderPathW"
+            ]
+          },
+          {
+            "library_name": "ole32.dll",
+            "imported_functions": [
+              "CLSIDFromProgID",
+              "CLSIDFromString",
+              "CoFreeUnusedLibraries",
+              "CoGetClassObject",
+              "CoRegisterMessageFilter",
+              "CoRevokeClassObject",
+              "CoTaskMemAlloc",
+              "CoTaskMemFree",
+              "CreateILockBytesOnHGlobal",
+              "OleFlushClipboard",
+              "OleInitialize",
+              "OleIsCurrentClipboard",
+              "OleUninitialize",
+              "StgCreateDocfileOnILockBytes",
+              "StgOpenStorageOnILockBytes"
+            ]
+          },
+          {
+            "library_name": "SHLWAPI.dll",
+            "imported_functions": [
+              "PathFindExtensionW",
+              "PathFindFileNameW",
+              "PathIsUNCW",
+              "PathRemoveFileSpecW",
+              "PathStripToRootW"
+            ]
+          },
+          {
+            "library_name": "WS2_32.dll",
+            "imported_functions": [
+              "closesocket",
+              "connect",
+              "gethostbyname",
+              "gethostname",
+              "htons",
+              "inet_addr",
+              "inet_ntoa",
+              "recv",
+              "send",
+              "setsockopt",
+              "shutdown",
+              "socket",
+              "WSAAddressToStringW",
+              "WSAGetLastError",
+              "WSALookupServiceBeginW",
+              "WSALookupServiceEnd",
+              "WSALookupServiceNextW",
+              "WSAStartup"
+            ]
+          },
+          {
+            "library_name": "USER32.dll",
+            "imported_functions": [
+              "AdjustWindowRectEx",
+              "BeginPaint",
+              "CallNextHookEx",
+              "CallWindowProcW",
+              "CharNextW",
+              "CharUpperW",
+              "CheckMenuItem",
+              "ClientToScreen",
+              "CopyAcceleratorTableW",
+              "CopyRect",
+              "CreateDialogIndirectParamW",
+              "CreateWindowExW",
+              "DefWindowProcW",
+              "DestroyMenu",
+              "DestroyWindow",
+              "DispatchMessageW",
+              "DrawTextExW",
+              "DrawTextW",
+              "EnableMenuItem",
+              "EnableWindow",
+              "EndDialog",
+              "EndPaint",
+              "EqualRect",
+              "FindWindowW",
+              "GetActiveWindow",
+              "GetCapture",
+              "GetClassInfoExW",
+              "GetClassInfoW",
+              "GetClassLongW",
+              "GetClassNameW",
+              "GetClientRect",
+              "GetCursorPos",
+              "GetDC",
+              "GetDesktopWindow",
+              "GetDlgCtrlID",
+              "GetDlgItem",
+              "GetFocus",
+              "GetForegroundWindow",
+              "GetKeyState",
+              "GetLastActivePopup",
+              "GetMenu",
+              "GetMenuCheckMarkDimensions",
+              "GetMenuItemCount",
+              "GetMenuItemID",
+              "GetMenuState",
+              "GetMessagePos",
+              "GetMessageTime",
+              "GetMessageW",
+              "GetNextDlgGroupItem",
+              "GetNextDlgTabItem",
+              "GetParent",
+              "GetPropW",
+              "GetSubMenu",
+              "GetSysColor",
+              "GetSysColorBrush",
+              "GetSystemMetrics",
+              "GetTopWindow",
+              "GetWindow",
+              "GetWindowDC",
+              "GetWindowLongW",
+              "GetWindowPlacement",
+              "GetWindowRect",
+              "GetWindowTextW",
+              "GrayStringW",
+              "IntersectRect",
+              "InvalidateRect",
+              "InvalidateRgn",
+              "IsChild",
+              "IsDialogMessageW",
+              "IsIconic",
+              "IsRectEmpty",
+              "IsWindow",
+              "IsWindowEnabled",
+              "IsWindowVisible",
+              "LoadBitmapW",
+              "LoadCursorW",
+              "LoadIconW",
+              "MapDialogRect",
+              "MapWindowPoints",
+              "MessageBeep",
+              "MessageBoxW",
+              "ModifyMenuW",
+              "MoveWindow",
+              "OffsetRect",
+              "PeekMessageW",
+              "PostMessageW",
+              "PostQuitMessage",
+              "PostThreadMessageW",
+              "PtInRect",
+              "RegisterClassW",
+              "RegisterClipboardFormatW",
+              "RegisterWindowMessageW",
+              "ReleaseCapture",
+              "ReleaseDC",
+              "RemovePropW",
+              "ScreenToClient",
+              "SendDlgItemMessageA",
+              "SendDlgItemMessageW",
+              "SendMessageW",
+              "SetActiveWindow",
+              "SetCapture",
+              "SetCursor",
+              "SetFocus",
+              "SetForegroundWindow",
+              "SetMenuItemBitmaps",
+              "SetPropW",
+              "SetRect",
+              "SetWindowContextHelpId",
+              "SetWindowLongW",
+              "SetWindowPos",
+              "SetWindowsHookExW",
+              "SetWindowTextW",
+              "ShowWindow",
+              "SystemParametersInfoA",
+              "TabbedTextOutW",
+              "TranslateMessage",
+              "UnhookWindowsHookEx",
+              "UnregisterClassW",
+              "UpdateWindow",
+              "ValidateRect",
+              "WinHelpW",
+              "wsprintfW",
+              "wvsprintfW"
+            ]
+          },
+          {
+            "library_name": "OLEAUT32.dll",
+            "imported_functions": [
+              "OleCreateFontIndirect",
+              "SafeArrayDestroy",
+              "SysAllocString",
+              "SysAllocStringLen",
+              "SysFreeString",
+              "SysStringLen",
+              "SystemTimeToVariantTime",
+              "VariantChangeType",
+              "VariantClear",
+              "VariantCopy",
+              "VariantInit",
+              "VariantTimeToSystemTime"
+            ]
+          }
+        ]
+      },
+      "type_description": "Win32 EXE",
+      "packers": {
+        "PEiD": "Microsoft Visual C++ v7.0"
+      },
+      "last_submission_date": 1681695448,
+      "trid": [
+        {
+          "file_type": "Win32 Executable MS Visual C++ (generic)",
+          "probability": 40.5
+        },
+        {
+          "file_type": "Windows screen saver",
+          "probability": 17.0
+        },
+        {
+          "file_type": "Win64 Executable (generic)",
+          "probability": 13.6
+        },
+        {
+          "file_type": "Win32 Dynamic Link Library (generic)",
+          "probability": 8.5
+        },
+        {
+          "file_type": "Win16 NE executable (generic)",
+          "probability": 6.5
+        }
+      ],
+      "unique_sources": 2,
+      "crowdsourced_ids_stats": {
+        "high": 1,
+        "info": 1,
+        "medium": 0,
+        "low": 3
+      },
+      "total_votes": {
+        "harmless": 0,
+        "malicious": 0
+      },
+      "meaningful_name": "TurboMeetingStarter.exe",
+      "names": [
+        "TurboMeetingStarter.exe",
+        "8f9a7eb10a20487e86b0aaf1a3ceda4f.virus"
+      ],
+      "sigma_analysis_stats": {
+        "high": 1,
+        "medium": 0,
+        "critical": 0,
+        "low": 1
+      },
+      "type_extension": "exe",
+      "type_tags": [
+        "executable",
+        "windows",
+        "win32",
+        "pe",
+        "peexe"
+      ],
+      "md5": "8f9a7eb10a20487e86b0aaf1a3ceda4f",
+      "last_analysis_results": {
+        "Bkav": {
+          "method": "blacklist",
+          "engine_name": "Bkav",
+          "engine_version": "1.3.0.9899",
+          "engine_update": "20230411",
+          "category": "undetected",
+          "result": null
+        },
+        "Lionic": {
+          "method": "blacklist",
+          "engine_name": "Lionic",
+          "engine_version": "7.5",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "AVG": {
+          "method": "blacklist",
+          "engine_name": "AVG",
+          "engine_version": "22.11.7701.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Elastic": {
+          "method": "blacklist",
+          "engine_name": "Elastic",
+          "engine_version": "4.0.85",
+          "engine_update": "20230413",
+          "category": "malicious",
+          "result": "malicious (moderate confidence)"
+        },
+        "MicroWorld-eScan": {
+          "method": "blacklist",
+          "engine_name": "MicroWorld-eScan",
+          "engine_version": "14.0.409.0",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "FireEye": {
+          "method": "blacklist",
+          "engine_name": "FireEye",
+          "engine_version": "35.24.1.0",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "CAT-QuickHeal": {
+          "method": "blacklist",
+          "engine_name": "CAT-QuickHeal",
+          "engine_version": "22.00",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "ALYac": {
+          "method": "blacklist",
+          "engine_name": "ALYac",
+          "engine_version": "1.1.3.1",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "Cylance": {
+          "method": "blacklist",
+          "engine_name": "Cylance",
+          "engine_version": "2.0.0.0",
+          "engine_update": "20230412",
+          "category": "malicious",
+          "result": "unsafe"
+        },
+        "Zillya": {
+          "method": "blacklist",
+          "engine_name": "Zillya",
+          "engine_version": "2.0.0.4853",
+          "engine_update": "20230414",
+          "category": "malicious",
+          "result": "Dropper.Dapato.Win32.73879"
+        },
+        "Sangfor": {
+          "method": "blacklist",
+          "engine_name": "Sangfor",
+          "engine_version": "2.23.0.0",
+          "engine_update": "20230404",
+          "category": "malicious",
+          "result": "Downloader.Win32.Agent.Vzid"
+        },
+        "K7AntiVirus": {
+          "method": "blacklist",
+          "engine_name": "K7AntiVirus",
+          "engine_version": "12.79.47774",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "BitDefender": {
+          "method": "blacklist",
+          "engine_name": "BitDefender",
+          "engine_version": "7.2",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "K7GW": {
+          "method": "blacklist",
+          "engine_name": "K7GW",
+          "engine_version": "12.79.47774",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "CrowdStrike": {
+          "method": "blacklist",
+          "engine_name": "CrowdStrike",
+          "engine_version": "1.0",
+          "engine_update": "20220812",
+          "category": "malicious",
+          "result": "win/malicious_confidence_100% (W)"
+        },
+        "Arcabit": {
+          "method": "blacklist",
+          "engine_name": "Arcabit",
+          "engine_version": "2022.0.0.18",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.Generic.D3F5B3D7"
+        },
+        "Baidu": {
+          "method": "blacklist",
+          "engine_name": "Baidu",
+          "engine_version": "1.0.0.2",
+          "engine_update": "20190318",
+          "category": "undetected",
+          "result": null
+        },
+        "VirIT": {
+          "method": "blacklist",
+          "engine_name": "VirIT",
+          "engine_version": "9.5.429",
+          "engine_update": "20230414",
+          "category": "malicious",
+          "result": "Trojan.Win32.Dnldr25.KMF"
+        },
+        "Cyren": {
+          "method": "blacklist",
+          "engine_name": "Cyren",
+          "engine_version": "6.5.1.2",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "W32/Dapato.Q.gen!Eldorado"
+        },
+        "Symantec": {
+          "method": "blacklist",
+          "engine_name": "Symantec",
+          "engine_version": "1.19.0.0",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.Gen.2"
+        },
+        "tehtris": {
+          "method": "blacklist",
+          "engine_name": "tehtris",
+          "engine_version": "v0.1.4",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "ESET-NOD32": {
+          "method": "blacklist",
+          "engine_name": "ESET-NOD32",
+          "engine_version": "27081",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Cynet": {
+          "method": "blacklist",
+          "engine_name": "Cynet",
+          "engine_version": "4.0.0.27",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Malicious (score: 100)"
+        },
+        "APEX": {
+          "method": "blacklist",
+          "engine_name": "APEX",
+          "engine_version": "6.408",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Malicious"
+        },
+        "Paloalto": {
+          "method": "blacklist",
+          "engine_name": "Paloalto",
+          "engine_version": "0.9.0.1003",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "generic.ml"
+        },
+        "ClamAV": {
+          "method": "blacklist",
+          "engine_name": "ClamAV",
+          "engine_version": "1.0.1.0",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Win.Malware.Dapato-9889807-0"
+        },
+        "Kaspersky": {
+          "method": "blacklist",
+          "engine_name": "Kaspersky",
+          "engine_version": "22.0.1.28",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "Alibaba": {
+          "method": "blacklist",
+          "engine_name": "Alibaba",
+          "engine_version": "0.3.0.5",
+          "engine_update": "20190527",
+          "category": "malicious",
+          "result": "Trojan:Win32/Dapato.2798ab96"
+        },
+        "NANO-Antivirus": {
+          "method": "blacklist",
+          "engine_name": "NANO-Antivirus",
+          "engine_version": "1.0.146.25755",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.Win32.Dapato.hfvyfr"
+        },
+        "ViRobot": {
+          "method": "blacklist",
+          "engine_name": "ViRobot",
+          "engine_version": "2014.3.20.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Rising": {
+          "method": "blacklist",
+          "engine_name": "Rising",
+          "engine_version": "25.0.0.27",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Sophos": {
+          "method": "blacklist",
+          "engine_name": "Sophos",
+          "engine_version": "2.1.2.0",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Generic ML PUA (PUA)"
+        },
+        "F-Secure": {
+          "method": "blacklist",
+          "engine_name": "F-Secure",
+          "engine_version": "18.10.1137.128",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "DrWeb": {
+          "method": "blacklist",
+          "engine_name": "DrWeb",
+          "engine_version": "7.0.59.12300",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Trojan.DownLoader25.7077"
+        },
+        "VIPRE": {
+          "method": "blacklist",
+          "engine_name": "VIPRE",
+          "engine_version": "6.0.0.35",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "TrendMicro": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro",
+          "engine_version": "11.0.0.1006",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "McAfee-GW-Edition": {
+          "method": "blacklist",
+          "engine_name": "McAfee-GW-Edition",
+          "engine_version": "v2021.2.0+4045",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "BehavesLike.Win32.Downloader.gh"
+        },
+        "Trapmine": {
+          "method": "blacklist",
+          "engine_name": "Trapmine",
+          "engine_version": "4.0.14.446",
+          "engine_update": "20230412",
+          "category": "undetected",
+          "result": null
+        },
+        "CMC": {
+          "method": "blacklist",
+          "engine_name": "CMC",
+          "engine_version": "2.4.2022.1",
+          "engine_update": "20230414",
+          "category": "undetected",
+          "result": null
+        },
+        "Emsisoft": {
+          "method": "blacklist",
+          "engine_name": "Emsisoft",
+          "engine_version": "2022.6.0.32461",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007 (B)"
+        },
+        "SentinelOne": {
+          "method": "blacklist",
+          "engine_name": "SentinelOne",
+          "engine_version": "23.2.0.1",
+          "engine_update": "20230404",
+          "category": "malicious",
+          "result": "Static AI - Suspicious PE"
+        },
+        "Jiangmin": {
+          "method": "blacklist",
+          "engine_name": "Jiangmin",
+          "engine_version": "16.0.100",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "TrojanDropper.Dapato.abhh"
+        },
+        "Webroot": {
+          "method": "blacklist",
+          "engine_name": "Webroot",
+          "engine_version": "1.0.0.403",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "Avira": {
+          "method": "blacklist",
+          "engine_name": "Avira",
+          "engine_version": "8.3.3.16",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "MAX": {
+          "method": "blacklist",
+          "engine_name": "MAX",
+          "engine_version": "2023.1.4.1",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "malware (ai score=88)"
+        },
+        "Antiy-AVL": {
+          "method": "blacklist",
+          "engine_name": "Antiy-AVL",
+          "engine_version": "3.0",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "Gridinsoft": {
+          "method": "blacklist",
+          "engine_name": "Gridinsoft",
+          "engine_version": "1.0.113.174",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Adware.Win32.Downloader.bot!s1"
+        },
+        "Xcitium": {
+          "method": "blacklist",
+          "engine_name": "Xcitium",
+          "engine_version": "35575",
+          "engine_update": "20230415",
+          "category": "undetected",
+          "result": null
+        },
+        "Microsoft": {
+          "method": "blacklist",
+          "engine_name": "Microsoft",
+          "engine_version": "1.1.20200.4",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan:Script/Phonzy.A!ml"
+        },
+        "SUPERAntiSpyware": {
+          "method": "blacklist",
+          "engine_name": "SUPERAntiSpyware",
+          "engine_version": "5.6.0.1032",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.Agent/Gen-DropperDapato"
+        },
+        "ZoneAlarm": {
+          "method": "blacklist",
+          "engine_name": "ZoneAlarm",
+          "engine_version": "1.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "GData": {
+          "method": "blacklist",
+          "engine_name": "GData",
+          "engine_version": "A:25.35657B:27.31358",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.GenericKD.66434007"
+        },
+        "Google": {
+          "method": "blacklist",
+          "engine_name": "Google",
+          "engine_version": "1681693240",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "Detected"
+        },
+        "AhnLab-V3": {
+          "method": "blacklist",
+          "engine_name": "AhnLab-V3",
+          "engine_version": "3.23.2.10388",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Acronis": {
+          "method": "blacklist",
+          "engine_name": "Acronis",
+          "engine_version": "1.2.0.114",
+          "engine_update": "20230219",
+          "category": "malicious",
+          "result": "suspicious"
+        },
+        "McAfee": {
+          "method": "blacklist",
+          "engine_name": "McAfee",
+          "engine_version": "6.0.6.653",
+          "engine_update": "20230417",
+          "category": "malicious",
+          "result": "RDN/Generic Downloader.x"
+        },
+        "TACHYON": {
+          "method": "blacklist",
+          "engine_name": "TACHYON",
+          "engine_version": "2023-04-16.02",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "DeepInstinct": {
+          "method": "blacklist",
+          "engine_name": "DeepInstinct",
+          "engine_version": "3.1.0.15",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "MALICIOUS"
+        },
+        "VBA32": {
+          "method": "blacklist",
+          "engine_name": "VBA32",
+          "engine_version": "5.0.0",
+          "engine_update": "20230414",
+          "category": "malicious",
+          "result": "Trojan.Downloader"
+        },
+        "Malwarebytes": {
+          "method": "blacklist",
+          "engine_name": "Malwarebytes",
+          "engine_version": "4.5.5.54",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Malware.AI.418480237"
+        },
+        "Panda": {
+          "method": "blacklist",
+          "engine_name": "Panda",
+          "engine_version": "4.6.4.2",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "TrendMicro-HouseCall": {
+          "method": "blacklist",
+          "engine_name": "TrendMicro-HouseCall",
+          "engine_version": "10.0.0.1040",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "TROJ_GEN.R002H0CDF23"
+        },
+        "Tencent": {
+          "method": "blacklist",
+          "engine_name": "Tencent",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20230417",
+          "category": "undetected",
+          "result": null
+        },
+        "Yandex": {
+          "method": "blacklist",
+          "engine_name": "Yandex",
+          "engine_version": "5.5.2.24",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "Trojan.DownLoader!n0s+L+ZywfM"
+        },
+        "Ikarus": {
+          "method": "blacklist",
+          "engine_name": "Ikarus",
+          "engine_version": "6.1.14.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "MaxSecure": {
+          "method": "blacklist",
+          "engine_name": "MaxSecure",
+          "engine_version": "1.0.0.1",
+          "engine_update": "20230415",
+          "category": "malicious",
+          "result": "Trojan.Malware.121218.susgen"
+        },
+        "Fortinet": {
+          "method": "blacklist",
+          "engine_name": "Fortinet",
+          "engine_version": "6.4.258.0",
+          "engine_update": "20230416",
+          "category": "malicious",
+          "result": "W32/Dapato.7077!tr.dldr"
+        },
+        "BitDefenderTheta": {
+          "method": "blacklist",
+          "engine_name": "BitDefenderTheta",
+          "engine_version": "7.2.37796.0",
+          "engine_update": "20230403",
+          "category": "undetected",
+          "result": null
+        },
+        "Zoner": {
+          "method": "blacklist",
+          "engine_name": "Zoner",
+          "engine_version": "2.2.2.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Avast": {
+          "method": "blacklist",
+          "engine_name": "Avast",
+          "engine_version": "22.11.7701.0",
+          "engine_update": "20230416",
+          "category": "undetected",
+          "result": null
+        },
+        "Avast-Mobile": {
+          "method": "blacklist",
+          "engine_name": "Avast-Mobile",
+          "engine_version": "230416-00",
+          "engine_update": "20230416",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "SymantecMobileInsight": {
+          "method": "blacklist",
+          "engine_name": "SymantecMobileInsight",
+          "engine_version": "2.0",
+          "engine_update": "20230119",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "BitDefenderFalx": {
+          "method": "blacklist",
+          "engine_name": "BitDefenderFalx",
+          "engine_version": "2.0.936",
+          "engine_update": "20230203",
+          "category": "type-unsupported",
+          "result": null
+        },
+        "Trustlook": {
+          "method": "blacklist",
+          "engine_name": "Trustlook",
+          "engine_version": "1.0",
+          "engine_update": "20230417",
+          "category": "type-unsupported",
+          "result": null
+        }
+      },
+      "sigma_analysis_summary": {
+        "Sigma Integrated Rule Set (GitHub)": {
+          "high": 1,
+          "medium": 0,
+          "critical": 0,
+          "low": 1
+        }
+      },
+      "vhash": "045046655d151120101002400a47zf0c5z405017b0011z127z",
+      "authentihash": "f0f3a65395b81f80b42b8e6770e9ad701ae46435f9f30e63b97b6a6ae657d34f",
+      "type_tag": "peexe",
+      "ssdeep": "12288:JHhftsvpSfCludXukNtI0hslOYlTMLW9l4h19Tzkd:JHySxd+k/hWTl439TS",
+      "tags": [
+        "peexe",
+        "self-delete",
+        "overlay",
+        "revoked-cert",
+        "runtime-modules",
+        "signed",
+        "detect-debug-environment",
+        "checks-network-adapters",
+        "direct-cpu-clock-access",
+        "checks-user-input",
+        "invalid-signature"
+      ],
+      "crowdsourced_ids_results": [
+        {
+          "rule_category": "A Network Trojan was detected",
+          "alert_severity": "high",
+          "rule_msg": "ET USER_AGENTS Suspicious User Agent (Microsoft Internet Explorer)",
+          "rule_raw": "alert http $HOME_NET any -> $EXTERNAL_NET any (msg:\"ET USER_AGENTS Suspicious User Agent (Microsoft Internet Explorer)\"; flow:established,to_server; threshold:type limit, track by_src, count 2, seconds 360; http.user_agent; content:\"Microsoft Internet Explorer\"; depth:28; http.host; content:!\"bbc.co.uk\"; content:!\"vmware.com\"; content:!\"rc.itsupport247.net\"; content:!\"msn.com\"; content:!\"msn.es\"; content:!\"live.com\"; content:!\"gocyberlink.com\"; content:!\"ultraedit.com\"; content:!\"windowsupdate.com\"; content:!\"cyberlink.com\"; content:!\"lenovo.com\"; content:!\"itsupport247.net\"; content:!\"msn.co.uk\"; content:!\"support.weixin.qq.com\"; reference:url,doc.emergingthreats.net/bin/view/Main/2002400; classtype:trojan-activity; sid:2002400; rev:37; metadata:created_at 2010_07_30, former_category HUNTING, updated_at 2020_08_31;)",
+          "rule_url": "https://rules.emergingthreats.net/",
+          "alert_context": [
+            {
+              "url": "http://64.71.130.88/as/wapi/get_client?client=pc&rdm=1681561692",
+              "hostname": "64.71.130.88",
+              "dest_ip": "64.71.130.88",
+              "dest_port": 80
+            },
+            {
+              "url": "http://64.71.130.88/as/wapi/get_client?client=pc&rdm=1681082077",
+              "hostname": "64.71.130.88",
+              "dest_port": 80,
+              "dest_ip": "64.71.130.88"
+            }
+          ],
+          "rule_references": [
+            "https://doc.emergingthreats.net/bin/view/Main/2002400"
+          ],
+          "rule_source": "Proofpoint Emerging Threats Open",
+          "rule_id": "1:2002400"
+        },
+        {
+          "rule_category": "misc-activity",
+          "alert_severity": "low",
+          "rule_msg": "(eth) truncated ethernet header",
+          "rule_raw": "alert ( gid:116; sid:424; rev:2; msg:\"(eth) truncated ethernet header\"; metadata: policy max-detect-ips drop, rule-type decode; classtype:misc-activity;)",
+          "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+          "rule_source": "Snort registered user ruleset",
+          "rule_id": "116:424"
+        },
+        {
+          "rule_category": "unknown",
+          "alert_severity": "low",
+          "rule_msg": "(http_inspect) HTTP start line or header line terminated by LF without a CR",
+          "rule_raw": "alert ( gid:119; sid:13; rev:3; msg:\"(http_inspect) HTTP start line or header line terminated by LF without a CR\"; metadata: policy max-detect-ips drop, rule-type preproc; service:http; classtype:unknown;)",
+          "alert_context": [
+            {
+              "dest_ip": "64.71.130.88",
+              "dest_port": 80
+            }
+          ],
+          "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+          "rule_source": "Snort registered user ruleset",
+          "rule_id": "119:13"
+        },
+        {
+          "rule_category": "misc-activity",
+          "alert_severity": "low",
+          "rule_msg": "PROTOCOL-ICMP Destination Unreachable Network Unreachable",
+          "rule_raw": "alert icmp $EXTERNAL_NET any -> $HOME_NET any ( msg:\"PROTOCOL-ICMP Destination Unreachable Network Unreachable\"; icode:0; itype:3; metadata:ruleset community; classtype:misc-activity; sid:401; rev:9; )",
+          "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+          "rule_source": "Snort registered user ruleset",
+          "rule_id": "1:401"
+        },
+        {
+          "rule_category": "policy-violation",
+          "alert_severity": "info",
+          "rule_msg": "POLICY-OTHER HTTP request by IPv4 address attempt",
+          "rule_raw": "alert tcp any any -> any $HTTP_PORTS ( msg:\"POLICY-OTHER HTTP request by IPv4 address attempt\"; flow:to_server,established; http_header; content:\"Host:\",fast_pattern,nocase; pcre:\"/^Host\\x3a\\s*(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9]?[0-9])\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9]?[0-9])\\s*:?\\s*\\d*\\s*$/ims\"; service:http; reference:url,www.w3.org/Protocols/rfc2616/rfc2616-sec15.html; classtype:policy-violation; sid:50447; rev:1; )",
+          "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+          "alert_context": [
+            {
+              "dest_ip": "64.71.130.88",
+              "dest_port": 80
+            }
+          ],
+          "rule_references": [
+            "https://www.w3.org/Protocols/rfc2616/rfc2616-sec15.html"
+          ],
+          "rule_source": "Snort registered user ruleset",
+          "rule_id": "1:50447"
+        }
+      ],
+      "times_submitted": 2,
+      "reputation": 0,
+      "last_analysis_stats": {
+        "malicious": 41,
+        "suspicious": 0,
+        "undetected": 29,
+        "harmless": 0,
+        "timeout": 0,
+        "confirmed-timeout": 0,
+        "failure": 0,
+        "type-unsupported": 4
+      },
+      "creation_date": 1378724440,
+      "sigma_analysis_results": [
+        {
+          "match_context": [
+            {
+              "values": {
+                "EventID": "13",
+                "ProcessId": "3448",
+                "EventType": "SetValue",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "UtcTime": "1681561719",
+                "Details": "Service",
+                "RuleName": "Tamper-Safemode",
+                "TargetObject": "HKLM\\System\\CurrentControlSet\\Control\\SafeBoot\\Network\\TurboMeeting\\(Default)"
+              }
+            },
+            {
+              "values": {
+                "EventID": "13",
+                "ProcessId": "2544",
+                "EventType": "SetValue",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "UtcTime": "1681082085",
+                "Details": "Service",
+                "RuleName": "Tamper-Safemode",
+                "TargetObject": "HKLM\\System\\CurrentControlSet\\Control\\SafeBoot\\Network\\TurboMeeting\\(Default)"
+              }
+            }
+          ],
+          "rule_level": "high",
+          "rule_id": "876ae5900040fc2ad5fd69d8477e94869d5e147f2af5c4456d0b099844c20bb5",
+          "rule_source": "Sigma Integrated Rule Set (GitHub)",
+          "rule_title": "Registry Persitence via Service in Safe Mode",
+          "rule_description": "Detects the modification of the registry to allow a driver or service to persist in Safe Mode.",
+          "rule_author": "frack113"
+        },
+        {
+          "match_context": [
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\InstallService.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561699",
+                "UtcTime": "1681561699",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\PCStarter.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561700",
+                "UtcTime": "1681561700",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\Sss.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561700",
+                "UtcTime": "1681561700",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561700",
+                "UtcTime": "1681561700",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMDownloader.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561701",
+                "UtcTime": "1681561701",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMInstaller.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMRemover.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561701",
+                "UtcTime": "1681561701",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMService.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561702",
+                "UtcTime": "1681561702",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TurboMeeting.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561702",
+                "UtcTime": "1681561702",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3548",
+                "Image": "C:\\Users\\george\\Desktop\\TurboMeetingStarter.exe",
+                "ProcessGuid": "{C784477D-9854-643A-0306-000000004700}",
+                "CreationUtcTime": "1681561703",
+                "UtcTime": "1681561703",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\InstallService.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561714",
+                "UtcTime": "1681561714",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\PCStarter.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561715",
+                "UtcTime": "1681561715",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561715",
+                "UtcTime": "1681561715",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\Sss.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMDownloader.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561716",
+                "UtcTime": "1681561716",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMInstaller.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561716",
+                "UtcTime": "1681561716",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561716",
+                "UtcTime": "1681561716",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMRemover.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561716",
+                "UtcTime": "1681561716",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561717",
+                "UtcTime": "1681561717",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMService.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TurboMeeting.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561717",
+                "UtcTime": "1681561717",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561716",
+                "UtcTime": "1681561718",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\PCStarter.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681561724",
+                "UtcTime": "1681561724",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561725",
+                "UtcTime": "1681561725",
+                "RuleName": "EXE",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TMRemover.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TMInstaller.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561725",
+                "UtcTime": "1681561725",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "3448",
+                "TargetFilename": "C:\\Users\\george\\AppData\\Roaming\\TurboMeeting\\TMLauncher.exe",
+                "ProcessGuid": "{C784477D-9868-643A-0506-000000004700}",
+                "CreationUtcTime": "1681561726",
+                "UtcTime": "1681561726",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\InstallService.exe",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082081",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082081",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\PCStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\Sss.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082081",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMDownloader.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082081",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMInstaller.exe",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082081",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082081",
+                "UtcTime": "1681082082",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMRemover.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMService.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082082",
+                "UtcTime": "1681082082",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TurboMeeting.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082082",
+                "UtcTime": "1681082082",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2804",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082082",
+                "UtcTime": "1681082082",
+                "ProcessGuid": "{574CBD14-46D3-6433-B100-000000003000}",
+                "Image": "C:\\Users\\azure\\Downloads\\TurboMeetingStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\InstallService.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\PCStarter.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\Sss.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMDownloader.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMInstaller.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMLauncher.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMRemover.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082084",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMService.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TurboMeeting.exe",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "CreationUtcTime": "1681082085",
+                "UtcTime": "1681082085",
+                "RuleName": "EXE",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TurboMeeting\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082084",
+                "UtcTime": "1681082085",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082088",
+                "UtcTime": "1681082088",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\PCStarter.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TMRemover.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082088",
+                "UtcTime": "1681082088",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082088",
+                "UtcTime": "1681082088",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TMInstaller.exe"
+              }
+            },
+            {
+              "values": {
+                "EventID": "11",
+                "ProcessId": "2544",
+                "Image": "C:\\Users\\azure\\AppData\\Local\\Temp\\tm_starter_dir\\TMLauncher.exe",
+                "RuleName": "EXE",
+                "CreationUtcTime": "1681082088",
+                "UtcTime": "1681082088",
+                "ProcessGuid": "{574CBD14-46E2-6433-B700-000000003000}",
+                "TargetFilename": "C:\\Users\\azure\\AppData\\Roaming\\TurboMeeting\\TMLauncher.exe"
+              }
+            }
+          ],
+          "rule_level": "low",
+          "rule_id": "b5386a23355681c43cfbd2f2ccfe4b16ed45324d0d7b5583487a9f302ee1e427",
+          "rule_source": "Sigma Integrated Rule Set (GitHub)",
+          "rule_title": "Creation of an Executable by an Executable",
+          "rule_description": "Detects the creation of an executable by another executable",
+          "rule_author": "frack113"
+        }
+      ],
+      "last_modification_date": 1681781158,
+      "signature_info": {
+        "product": "TurboMeeting Starter",
+        "verified": "A required certificate is not within its validity period when verifying against the current system clock or the timestamp in the signed file.",
+        "file version": "1.0",
+        "original name": "TurboMeetingStarter.exe",
+        "x509": [
+          {
+            "name": "thawte Primary Root CA",
+            "algorithm": "sha1RSA",
+            "valid from": "2006-11-17 00:00:00",
+            "valid to": "2036-07-16 23:59:59",
+            "serial number": "34 4E D5 57 20 D5 ED EC 49 F4 2F CE 37 DB 2B 6D",
+            "cert issuer": "thawte Primary Root CA",
+            "thumbprint": "91C6D6EE3E8AC86384E548C299295C756C817B81"
+          },
+          {
+            "name": "Thawte Code Signing CA - G2",
+            "algorithm": "sha1RSA",
+            "valid from": "2010-02-08 00:00:00",
+            "valid to": "2020-02-07 23:59:59",
+            "serial number": "47 97 4D 78 73 A5 BC AB 0D 2F B3 70 19 2F CE 5E",
+            "cert issuer": "thawte Primary Root CA",
+            "thumbprint": "808D62642B7D1C4A9A83FD667F7A2A9D243FB1C7",
+            "valid_usage": "Client Auth, Code Signing"
+          },
+          {
+            "name": "RHUB Communications Inc",
+            "algorithm": "sha1RSA",
+            "valid from": "2013-02-07 00:00:00",
+            "valid to": "2015-02-07 23:59:59",
+            "serial number": "6E 50 EE B4 A8 37 1F 48 DA 66 5C 63 2D A4 D1 DC",
+            "cert issuer": "Thawte Code Signing CA - G2",
+            "thumbprint": "8624027A4223FAF110F6815315B22CF99F8E6AB1",
+            "valid_usage": "Code Signing, 0.4.1.311.2.1"
+          }
+        ],
+        "description": "TurboMeetingStarter",
+        "signers": "RHUB Communications Inc; Thawte Code Signing CA - G2; thawte",
+        "copyright": "Copyright (c) 2003-2013",
+        "signers details": [
+          {
+            "status": "This certificate or one of the certificates in the certificate chain is not time valid., The revocation status of the certificate or one of the certificates in the certificate chain is unknown., Error 65536 (0x10000), The revocation status of the certificate or one of the certificates in the certificate chain is either offline or stale.",
+            "valid usage": "Code Signing, 1.3.6.1.4.1.311.2.1.22",
+            "name": "RHUB Communications Inc",
+            "algorithm": "sha1RSA",
+            "valid from": "12:00 AM 02/07/2013",
+            "valid to": "11:59 PM 02/07/2015",
+            "serial number": "6E 50 EE B4 A8 37 1F 48 DA 66 5C 63 2D A4 D1 DC",
+            "cert issuer": "Thawte Code Signing CA - G2",
+            "thumbprint": "8624027A4223FAF110F6815315B22CF99F8E6AB1"
+          },
+          {
+            "status": "This certificate or one of the certificates in the certificate chain is not time valid.",
+            "valid usage": "Client Auth, Code Signing",
+            "name": "Thawte Code Signing CA - G2",
+            "algorithm": "sha1RSA",
+            "valid from": "12:00 AM 02/08/2010",
+            "valid to": "11:59 PM 02/07/2020",
+            "serial number": "47 97 4D 78 73 A5 BC AB 0D 2F B3 70 19 2F CE 5E",
+            "cert issuer": "thawte Primary Root CA",
+            "thumbprint": "808D62642B7D1C4A9A83FD667F7A2A9D243FB1C7"
+          },
+          {
+            "status": "Valid",
+            "valid usage": "Client Auth, Code Signing, Email Protection, Server Auth",
+            "name": "thawte",
+            "algorithm": "sha1RSA",
+            "valid from": "12:00 AM 11/17/2006",
+            "valid to": "11:59 PM 07/16/2036",
+            "serial number": "34 4E D5 57 20 D5 ED EC 49 F4 2F CE 37 DB 2B 6D",
+            "cert issuer": "thawte Primary Root CA",
+            "thumbprint": "91C6D6EE3E8AC86384E548C299295C756C817B81"
+          }
+        ],
+        "internal name": "TurboMeetingStarter.exe"
+      },
+      "sandbox_verdicts": {
+        "C2AE": {
+          "category": "suspicious",
+          "confidence": 50,
+          "sandbox_name": "C2AE",
+          "malware_classification": [
+            "GREYWARE"
+          ],
+          "malware_names": [
+            "RhubDL"
+          ]
+        }
+      },
+      "first_submission_date": 1681561580,
+      "magic": "PE32 executable for MS Windows (GUI) Intel 80386 32-bit",
+      "size": 451472,
+      "last_analysis_date": 1681695448,
+      "sha1": "94d9b655e3d295c107640d896901b8b9fa080a4e",
+      "detectiteasy": {
+        "filetype": "PE32",
+        "values": [
+          {
+            "info": "static",
+            "type": "Library",
+            "name": "MFC"
+          },
+          {
+            "info": "EXE32",
+            "version": "2003 v.7.1 (3052-9782)",
+            "type": "Compiler",
+            "name": "EP:Microsoft Visual C/C++"
+          },
+          {
+            "info": "libcmt",
+            "version": "2003",
+            "type": "Compiler",
+            "name": "Microsoft Visual C++"
+          },
+          {
+            "info": "GUI32,signed",
+            "version": "7.10",
+            "type": "Linker",
+            "name": "Microsoft Linker"
+          }
+        ]
+      },
+      "sha256": "e495f0b37d12ff7be26589c90163af22a47817ad3089117f51ea5feef28f92dc"
+    }
+  }
+}

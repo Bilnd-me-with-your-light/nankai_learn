@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "8729e2dc9bcdecfbd6423adfcdb7f3c8",
+    "sha1": "8e61721491e8811801369b9c680484a8b62160a0",
+    "sha256": "a06c81622b76aac34567ec30d3bcc5f3c92d49d61a945ff0f524ab8f5baca63e",
+    "file_name": "CryptoWire Ransomware 勒索.zip",
+    "upload_time": "2025-02-02 17:10:51",
+    "start_time": "2025-02-02 17:10:52",
+    "end_time": "2025-02-02 17:11:29",
+    "format": "COMPRESS",
+    "malware_name": "Trojan/Win32.Rapid.a[Ransom]",
+    "size": 396727,
+    "trust": "no",
+    "total_multiscan": 9,
+    "positives_multiscan": 6,
+    "tags": [
+      "勒索行为|90"
+    ]
+  }
+}

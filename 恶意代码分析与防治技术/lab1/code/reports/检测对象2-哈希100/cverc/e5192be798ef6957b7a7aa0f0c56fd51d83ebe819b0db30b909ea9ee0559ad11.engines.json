@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "name": "Antiy-AVL",
+      "malname": "Trojan/Win32.Vidar[PSW]",
+      "trust": "no"
+    },
+    {
+      "name": "ChenXinLingChuang",
+      "malname": "Win32.Trojan.PswAgent.gww3",
+      "trust": "no"
+    },
+    {
+      "name": "ClamAV",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "DAS-Security",
+      "malname": "TrojanSpy/Stealer.ou",
+      "trust": "no"
+    },
+    {
+      "name": "HuoRong",
+      "malname": "TrojanSpy/Stealer.ou",
+      "trust": "no"
+    },
+    {
+      "name": "JiangMinAV",
+      "malname": "Trojan.PSW.Stealerc.oo",
+      "trust": "no"
+    },
+    {
+      "name": "Kaspersky",
+      "malname": "HEUR:Trojan-PSW.Win32.Stealerc.gen",
+      "trust": "no"
+    },
+    {
+      "name": "KingSoft",
+      "malname": "Win32.Trojan-PSW.Stealerc.gen.(kcloud)",
+      "trust": "no"
+    },
+    {
+      "name": "QiAnXin",
+      "malname": "Trojan.Win.PassStealer.2e5f82c8",
+      "trust": "no"
+    },
+    {
+      "name": "QiHoo360",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "Rising",
+      "malname": "Stealer.Vidar!1.11730 (CLASSIC)",
+      "trust": "no"
+    },
+    {
+      "name": "Sangfor",
+      "malname": "Trojan.Win32.Save.a",
+      "trust": "no"
+    },
+    {
+      "name": "Tencent",
+      "malname": "Undetected",
+      "trust": "unknown"
+    },
+    {
+      "name": "ThreatBook",
+      "malname": "Win.Malicious.ml",
+      "trust": "no"
+    }
+  ]
+}

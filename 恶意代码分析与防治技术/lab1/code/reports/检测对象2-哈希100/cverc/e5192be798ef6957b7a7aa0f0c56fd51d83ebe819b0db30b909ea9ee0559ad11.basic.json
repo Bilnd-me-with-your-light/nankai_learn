@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "755708f40a2108f22ea79070a5782ed2",
+    "sha1": "d4258e319e6d9527c66274a0f5f7e815a29b87d1",
+    "sha256": "e5192be798ef6957b7a7aa0f0c56fd51d83ebe819b0db30b909ea9ee0559ad11",
+    "file_name": "2023-11-08_755708f40a2108f22ea79070a5782ed2_mafia",
+    "upload_time": "2026-06-09 23:08:20",
+    "start_time": "2026-06-09 23:07:59",
+    "end_time": "2026-06-09 23:09:47",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Vidar[PSW]",
+    "size": 309760,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 11,
+    "tags": [
+      "泄密行为|100"
+    ]
+  }
+}

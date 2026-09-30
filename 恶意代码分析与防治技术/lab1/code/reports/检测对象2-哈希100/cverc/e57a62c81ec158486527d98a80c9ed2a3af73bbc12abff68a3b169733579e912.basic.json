@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "md5": "ecc0834d0d966126d615f5d87b5b0aa7",
+    "sha1": "7f475896d42e3bb668f6bf560bfc5aa54a665c20",
+    "sha256": "e57a62c81ec158486527d98a80c9ed2a3af73bbc12abff68a3b169733579e912",
+    "file_name": "2023-09-21_ecc0834d0d966126d615f5d87b5b0aa7_goldeneye",
+    "upload_time": "2026-06-10 04:13:45",
+    "start_time": "2026-06-10 04:13:45",
+    "end_time": "2026-06-10 04:14:56",
+    "format": "EXE",
+    "malware_name": "Trojan/Win32.Agent.pih",
+    "size": 417792,
+    "trust": "no",
+    "total_multiscan": 14,
+    "positives_multiscan": 14,
+    "tags": [
+      "僵尸远控行为|100"
+    ]
+  }
+}
